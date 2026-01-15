@@ -10,10 +10,15 @@ Here is a table of companies that have visited NIET for placements:
 | **Sr. No.** | **Date of Notification** | **Company Name**      | **Location**         | **Internship Stipend** | **Offered Package** | **Branches Allowed**      |
 |-------------|-----------------------|-----------------------|----------------------|-------------------------|---------------------|---------------------------|
 | 1           | 21-02-2025            | [Vivnovation](#)      | Remote        | INR 15k/month            | INR 20.00 LPA       | CSE, IT & Emerging Branches       |
-| 2           | 21-02-2025            | [Tech Solutions](#)   | San Francisco, USA   | $6,000/month           | $120,000/year       | Data Analytics            |
-| 3           | 21-02-2025            | [Innovate LLC](#)     | London, UK           | £3,500/month           | £80,000/year        | Research & Development    |
-| 4           | 21-02-2025            | [CodeMasters](#)      | Bangalore, India     | ₹50,000/month          | ₹15,00,000/year     | Cloud Computing           |
-| 5           | 21-02-2025            | [FutureCorp](#)       | Berlin, Germany      | €4,000/month           | €95,000/year        | Cybersecurity             |
+| 2           | 18-03-2025            | [Cisco](#)      | Remote        | INR 98k/month            | INR 22.00 LPA       | CSE, IT & Emerging Branches       |
+| 3           | 23-04-2025            | [Juspay Technologies](#)      | Bangalore        |             | INR 27.00 LPA       | CSE, IT & Emerging Branches, ECE & M.Tech Integrated       |
+| 1           | 21-02-2025            | [Vivnovation](#)      | Remote        | INR 15k/month            | INR 20.00 LPA       | CSE, IT & Emerging Branches       |
+| 1           | 21-02-2025            | [Vivnovation](#)      | Remote        | INR 15k/month            | INR 20.00 LPA       | CSE, IT & Emerging Branches       |
+| 1           | 21-02-2025            | [Vivnovation](#)      | Remote        | INR 15k/month            | INR 20.00 LPA       | CSE, IT & Emerging Branches       |
+| 1           | 21-02-2025            | [Vivnovation](#)      | Remote        | INR 15k/month            | INR 20.00 LPA       | CSE, IT & Emerging Branches       |
+| 1           | 21-02-2025            | [Vivnovation](#)      | Remote        | INR 15k/month            | INR 20.00 LPA       | CSE, IT & Emerging Branches       |
+| 1           | 21-02-2025            | [Vivnovation](#)      | Remote        | INR 15k/month            | INR 20.00 LPA       | CSE, IT & Emerging Branches       |
+
 
 
 ---
