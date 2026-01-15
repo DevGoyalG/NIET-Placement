@@ -42,14 +42,11 @@ Here is a table of companies that have visited NIET for placements:
 | 31          | 18-08-2025               | [Xcelore](#)        | JavaScript/UI Engineer – Trainee              |Noida  | INR 15,000          | INR 4 - 5 LPA        |
 | 32          | 18-08-2025               | [Xcelore](#)        | DevOps Engineer – Trainee            | Noida              | INR 15,000          | INR 4 - 5 LPA        |
 | 33          | 18-08-2025               | [Xcelore](#)        | Mobile & Smart TV Application Developer – Trainee            | Noida               | INR 15,000          | INR 4 - 5 LPA        |
-| 34          | 18-08-2025               | [Xcelore](#)        | 	
-IoT Engineer – Trainee          | Noida              | INR 15,000          | INR 4 - 5 LPA        |
-| 35          | 18-08-2025               | [Xcelore](#)        |	
-Quality Assurance Engineer – Trainee            |Noida               | INR 15,000          | INR 4 - 5 LPA        |
+| 34          | 18-08-2025               | [Xcelore](#)        | 	IoT Engineer – Trainee          | Noida              | INR 15,000          | INR 4 - 5 LPA        |
+| 35          | 18-08-2025               | [Xcelore](#)        |	Quality Assurance Engineer – Trainee            |Noida               | INR 15,000          | INR 4 - 5 LPA        |
 | 36          | 18-08-2025               | [Xcelore](#)        |Project Coordinator – Trainee             | Noida               | INR 15,000          | INR 4 - 5 LPA        |
 | 37          | 18-08-2025               | [Xcelore](#)        | HR / IT / Admin – Trainee           | Noida                | INR 15,000          | INR 4 - 5 LPA        |
-| 38          | 18-08-2025               | [Xcelore](#)        | 	
-Business Development Executive – Trainee            | Noida               | INR 15,000          | INR 4 - 5 LPA        |
+| 38          | 18-08-2025               | [Xcelore](#)        | 	Business Development Executive – Trainee            | Noida               | INR 15,000          | INR 4 - 5 LPA        |
 | 39          | 22-08-2025               | [Contevolve](#)            |    Web/Application Developer           | Noida        | INR 25,000            | INR 7 LPA      |
 | 40          | 22-08-2025               | [Contevolve](#)            |  Java Core Developer             | Noida        | INR 25,000            | INR 7 LPA      |
 | 41          | 22-08-2025               | [Contevolve](#)            |   DevOps Engineer            | Noida        | INR 25,000            | INR 7 LPA      |
