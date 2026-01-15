@@ -14,7 +14,7 @@ Here is a table of companies that have visited NIET for placements:
 | 3           | 23-04-2025               | [Juspay Technologies](#) | SDE          | Bangalore             | INR 40,000/month                     | INR 27 LPA       |
 | 4           | 23-04-2025               | [Juspay Technologies](#)   | PE               | Bangalore    | INR 40,000/month            | INR 21 LPA       |
 | 5           | 23-04-2025               | [Juspay Technologies](#)         | Product Design               | Bangalore       | INR 40,000/month            | INR 19 LPA       |
-| 6           | 23-04-2025               | [Juspay Technologies](#)       | PSE               | Bangalore          | INR 30,000/month          | INR 30,000/month      |
+| 6           | 23-04-2025               | [Juspay Technologies](#)       | PSE               | Bangalore          | INR 30,000/month          | INR 11 LPA     |
 | 7           | 23-04-2025               | [Josh Technology Group](#)           | Software Developer               | Gurugram          |   INR 22,500/month        |   INR 15,23,200/year    |
 | 8           | 23-04-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |   INR 20,000/month        | INR 6,03,600/year      |
 | 9           | 23-04-2025               | [Josh Technology Group](#)           | Front End Developer               | Gurugram          |   INR 22,500/month        | INR 12,93,300/year      |
