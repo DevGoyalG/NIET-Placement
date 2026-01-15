@@ -55,10 +55,46 @@ Here is a table of companies that have visited NIET for placements:
 | 44          | 22-08-2025               | [Contevolve](#)            |      BI Developer         | Noida        | INR 25,000            | INR 7 LPA      |
 | 45          | 22-08-2025               | [Contevolve](#)            |    AI/ML Engineer           | Noida        | INR 25,000            | INR 7 LPA      |
 | 46          | 22-08-2025               | [Contevolve](#)            |        Product Support       | Noida        | INR 25,000            | INR 7 LPA      |
-| 47          | 27-08-2025               | [IBM](#)           | Associate System Engineer      | Bangalore                 |           | INR 4.5 LPA + 20,000      |
-| 48          | 15-12-2025               | [Intel](#)            | Engineer             | Hyderabad             | INR 45k/month           | INR 14.00 LPA       |
-| 49          | 31-12-2025               | [LinkedIn](#)         | Design Intern        | Sunnyvale, USA        | USD 7k/month            | USD 150K/year       |
-| 50          | 10-01-2026               | [Salesforce](#)       | Engineer             | San Francisco, USA    | USD 6.5k/month          | USD 140K/year       |
+| 47          | 02-09-2025               | [Capgemini](#)           |    Analyst   |PAN India                 |           | INR 4 LPA + 25,000     |
+| 48          | 02-09-2025               | [Capgemini](#)           |    Analyst (Differential Hiring)   |PAN India                 |           | INR 5.50 LPA + 25,000    |
+| 49          | 02-09-2025               | [Capgemini](#)           |  Senior Analyst     |PAN India                 |           | INR 7.25 LPA + 25,000     |
+| 50          | 03-09-2025               | [Bangmetric](#)       | Tech Intern             | Noida    | INR 10,000 - 20,000          | INR 3.5 - 6 LPA       |
+| 51          | 04-09-2025               | [Josh Technology Group](#)           | Associate Software Developer               | Gurugram          |   INR 22,500    |   INR 11,58,000/year    |
+| 52          | 06-09-2025               | [LTIMindtree](#)           |    Graduate Engineer Trainee   |PAN India                 |           | INR 4,05,233/year     |
+| 53          | 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           | INR /year    |
+| 54          | 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           | INR /year    |
+| 55          | 11-09-2025               | [Accenture](#)           |   Advanced Application Engineer    |PAN India                 |           | INR /year    |
+| 56          | 20-09-2025               | [DeltaX](#)            | Product Analyst   | Bangalore           |             | 	INR 10 Lakhs over 2 years       |
+| 57          | 20-09-2025               | [DeltaX](#)            | Digital Marketing Champion   | Pune           |             | 	INR 10 Lakhs over 2 years       |
+| 58          | 20-09-2025               | [DeltaX](#)            | Business Operations Analyst   | Bangalore and Pune           |             | 	INR 10 Lakhs over 2 years       |
+| 59          | 20-09-2025               | [DeltaX](#)            | Digital Operations Analyst   | Pune           |             | 	INR 3.6 LPA       |
+| 60          | 23-09-2025               | [Vortexify Solutions](#)            | Salesforce Developer   | Noida           |   INR 20,000          | 	INR 4 LPA        |
+| 61          | 27-09-2025               | [Pramaanit Technologies](#)            | Blockchain Developer | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
+| 62          | 27-09-2025               | [Pramaanit Technologies](#)            | Front-End Developer | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
+| 63          | 27-09-2025               | [Pramaanit Technologies](#)            | UI/UX Designer | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
+| 64          | 27-09-2025               | [Pramaanit Technologies](#)            | Software Engineer | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
+| 65          | 27-09-2025               | [Pramaanit Technologies](#)            | DevOps Specialist | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
+| 66          | 27-09-2025               | [Pramaanit Technologies](#)            | App Developer | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
+| 67          | 27-09-2025               | [Pramaanit Technologies](#)            | HR Associate | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
+| 68          | 27-09-2025               | [Pramaanit Technologies](#)            | Backend Developer | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
+| 69          | 27-09-2025               | [Think41](#)            | Full Stack Engineer   | 	Bengaluru, Karnataka           |   INR 25,000          | 	INR 5.5 - 7 LPA        |
+| 70          | 29-09-2025               | [Webkul](#)            | Trainee Software Analyst-Python   | Noida           |   INR 23,500          | 	INR 4.2 LPA        |
+| 71          | 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |   INR 20,000          | 	INR  LPA        |
+| 72          | 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |   INR 21,500          | 	INR 5 LPA + 1 Lakh       |
+| 73          | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |   INR 40,000          | 	INR 10 LPA        |
+| 74          | 14-10-2025               | [Namma Yatri](#)            | Quality Engineer (QA)   |    Bengaluru     |   INR 30,000          | 	INR 9 LPA        |
+| 75          | 14-10-2025               | [TCS](#)            | Ninja   |    PAN India     |           | 	INR 9.09 LPA        |
+| 76          | 14-10-2025               | [TCS](#)            | Digital  |    PAN India     |           | 	INR 7.09 LPA        |
+| 77          | 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	INR 3.46 LPA        |
+| 78          | 17-10-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |   INR 20,000        | INR 5,76,900/year      |
+| 79          | 27-10-2025               | [TATA POWER](#)            | SEED (Student Engagement and Experiential Development)  |    PAN India     |   INR 20,000        | 	INR 6.75 LPA        |
+| 80          | 31-10-2025               | [Internet Research Bureau](#)            | Trainee Survey Programmer   |    Noida     |    INR 18,000        | 	INR 4 LPA        |
+| 81          | 31-10-2025               | [Josh Technology Group](#)           | Analyst- Outcome Based Learning              | Gurugram          |   INR 20,000        | INR 9,31,000/year      |
+| 82          | 04-11-2025               | [Primathon Technology Ventures Pvt. Ltd](#)            | Associate Software Developer  |    Gurugram    |   INR 15,000        | 	INR 5 - 6 LPA        |
+| 83          | 12-11-2025               | [Reddoorz](#)           | Entry-Level Software Engineer             | Noida          |   INR 20,000        | INR 6 LPA       |
+| 84          | 18-11-2025               | [GoDaddy ](#)            |  Software Development Engineer |    Remote     |   INR 50,000        | 	INR 44 LPA        |
+| 85          | 18-11-2025               | [GoDaddy ](#)            |  Data Analyst Intern |    Remote     |   INR 40,000        | 	INR 10.12 LPA        |
+| 86          | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          | INR 30,000        | INR 11 LPA     |
 
 
 
