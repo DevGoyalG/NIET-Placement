@@ -7,13 +7,14 @@ This repository serves as a detailed resource for students aspiring for placemen
 
 Here is a table of companies visiting NIET for placements along with details of the roles and offered packages:
 
-| **Sr. No.** | **Company Name**      | **Location**         | **Offered Package** | **Role/Branch**        |
-|-------------|-----------------------|----------------------|---------------------|------------------------|
-| 1           | [Example Inc](#)      | New York, USA        | $100,000/year       | Software Engineering   |
-| 2           | [Tech Solutions](#)   | San Francisco, USA   | $120,000/year       | Data Analytics         |
-| 3           | [Innovate LLC](#)     | London, UK           | £80,000/year        | Research & Development |
-| 4           | [CodeMasters](#)      | Bangalore, India     | ₹15,00,000/year     | Cloud Computing        |
-| 5           | [FutureCorp](#)       | Berlin, Germany      | €95,000/year        | Cybersecurity          |
+| **Sr. No.** | **Date of Placement** | **Company Name**      | **Location**         | **Internship Stipend** | **Offered Package** | **Branches Allowed**      |
+|-------------|-----------------------|-----------------------|----------------------|-------------------------|---------------------|---------------------------|
+| 1           | 2026-01-15            | [Example Inc](#)      | New York, USA        | $5,000/month           | $100,000/year       | Software Engineering       |
+| 2           | 2026-01-15            | [Tech Solutions](#)   | San Francisco, USA   | $6,000/month           | $120,000/year       | Data Analytics            |
+| 3           | 2026-01-15            | [Innovate LLC](#)     | London, UK           | £3,500/month           | £80,000/year        | Research & Development    |
+| 4           | 2026-01-15            | [CodeMasters](#)      | Bangalore, India     | ₹50,000/month          | ₹15,00,000/year     | Cloud Computing           |
+| 5           | 2026-01-15            | [FutureCorp](#)       | Berlin, Germany      | €4,000/month           | €95,000/year        | Cybersecurity             |
+
 
 ---
 ### Notes for Students:
