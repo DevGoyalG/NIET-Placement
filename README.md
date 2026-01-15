@@ -1,40 +1,34 @@
 # NIET Placement Information
 
-This repository serves as a detailed resource for students aspiring for placements at NIET (Noida Institute of Engineering and Technology). It includes a list of companies that have hired NIET students in the 2026, along with relevant details like location, offered package, and the roles/branches they are typically hiring for.
+This repository serves as a detailed resource for students aspiring for placements at NIET (Noida Institute of Engineering and Technology). It includes a list of companies that have hired NIET students in 2026 with relevant details like location, offered package, stipend, and the branches they typically hire from.
 
 ---
 ## Recent Placement Records
 
-Here is a table of companies visiting NIET for placements along with details of the roles and offered packages:
+Here is a table of companies that have visited NIET for placements:
 
-| **Sr. No.** | **Date of Placement** | **Company Name**      | **Location**         | **Internship Stipend** | **Offered Package** | **Branches Allowed**      |
+| **Sr. No.** | **Date of Notification** | **Company Name**      | **Location**         | **Internship Stipend** | **Offered Package** | **Branches Allowed**      |
 |-------------|-----------------------|-----------------------|----------------------|-------------------------|---------------------|---------------------------|
-| 1           | 2026-01-15            | [Example Inc](#)      | New York, USA        | $5,000/month           | $100,000/year       | Software Engineering       |
-| 2           | 2026-01-15            | [Tech Solutions](#)   | San Francisco, USA   | $6,000/month           | $120,000/year       | Data Analytics            |
-| 3           | 2026-01-15            | [Innovate LLC](#)     | London, UK           | £3,500/month           | £80,000/year        | Research & Development    |
-| 4           | 2026-01-15            | [CodeMasters](#)      | Bangalore, India     | ₹50,000/month          | ₹15,00,000/year     | Cloud Computing           |
-| 5           | 2026-01-15            | [FutureCorp](#)       | Berlin, Germany      | €4,000/month           | €95,000/year        | Cybersecurity             |
+| 1           | 21-02-2025            | [Vivnovation](#)      | Remote        | INR 15k/month            | INR 20.00 LPA       | CSE, IT & Emerging Branches       |
+| 2           | 21-02-2025            | [Tech Solutions](#)   | San Francisco, USA   | $6,000/month           | $120,000/year       | Data Analytics            |
+| 3           | 21-02-2025            | [Innovate LLC](#)     | London, UK           | £3,500/month           | £80,000/year        | Research & Development    |
+| 4           | 21-02-2025            | [CodeMasters](#)      | Bangalore, India     | ₹50,000/month          | ₹15,00,000/year     | Cloud Computing           |
+| 5           | 21-02-2025            | [FutureCorp](#)       | Berlin, Germany      | €4,000/month           | €95,000/year        | Cybersecurity             |
 
 
 ---
 ### Notes for Students:
 
-1. **Preparation Tips:**
-   - Focus on strengthening core knowledge in your area of expertise.
-   - Practice interview questions and online assessments for your field.
-
-2. **Tips for Using This Repository:**
-   - Review the list of companies provided and explore their profiles.
-   - Research about their offered packages, work culture, and hiring process.
-   - Keep an eye out for new opportunities listed here regularly.
+- Dates are tentative and subject to updates from the placement cell. 
+- Internship stipends are either reported by students or provided by companies. Verify details with the placement cell.
 
 ### Contributing:
 
-The NIET Placement repository is community-driven. If you have updates or information about new companies, feel free to contribute.
+The NIET Placement repository encourages contributions to keep the data updated. Students and alumni are welcome to share relevant placement information.
+1. Fork this repository.
+2. Make necessary additions or updates to the details.
+3. Open a Pull Request with your changes.
 
-Steps to contribute:
-1. Fork the repository.
-2. Update the information in the README file.
-3. Submit a Pull Request for review.
-
-We're excited to hear from more NIET students and alumni! Your contributions will help more students prepare for their career.
+---
+### Contact:
+For any suggestions or inquiries, please feel free to open an issue or contact **DevGoyalG** (Repository Owner).
