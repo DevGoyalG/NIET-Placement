@@ -83,9 +83,9 @@ Here is a table of companies that have visited NIET for placements:
 | 72          | 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |   INR 21,500          | 	INR 5 LPA + 1 Lakh       |
 | 73          | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |   INR 40,000          | 	INR 10 LPA        |
 | 74          | 14-10-2025               | [Namma Yatri](#)            | Quality Engineer (QA)   |    Bengaluru     |   INR 30,000          | 	INR 9 LPA        |
-| 75          | 14-10-2025               | [TCS](#)            | Ninja   |    PAN India     |           | 	INR 9.09 LPA        |
+| 75          | 14-10-2025               | [TCS](#)            | Ninja   |    PAN India     |           | 	INR 3.46 LPA        |
 | 76          | 14-10-2025               | [TCS](#)            | Digital  |    PAN India     |           | 	INR 7.09 LPA        |
-| 77          | 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	INR 3.46 LPA        |
+| 77          | 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	INR 9.09 LPA        |
 | 78          | 17-10-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |   INR 20,000        | INR 5,76,900/year      |
 | 79          | 27-10-2025               | [TATA POWER](#)            | SEED (Student Engagement and Experiential Development)  |    PAN India     |   INR 20,000        | 	INR 6.75 LPA        |
 | 80          | 31-10-2025               | [Internet Research Bureau](#)            | Trainee Survey Programmer   |    Noida     |    INR 18,000        | 	INR 4 LPA        |
