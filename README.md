@@ -7,30 +7,30 @@ This repository serves as a detailed resource for students aspiring for placemen
 
 Here is a table of companies that have visited NIET for placements:
 
-| **Sr. No.** | **Date of Notification** | **Company Name**      | **Role**             | **Location**          | **Internship Stipend** | **Offered Package** |
+| **Sr. No.** | **Date of Notification** | **Company Name**      | **Role**             | **Location**          | **Internship Stipend (Per Month)** | **Offered Package** |
 |-------------|--------------------------|-----------------------|----------------------|-----------------------|-------------------------|---------------------|
-| 1           | 21-02-2025               | [Vivnovation](#)      | Vivnovator                | Remote                | INR 15,000/month           | INR 20 LPA       |
-| 2           | 18-03-2025               | [Cisco](#)            |                |                 | INR 98,000/month           | INR 22.00 LPA       |
-| 3           | 23-04-2025               | [Juspay Technologies](#) | SDE          | Bangalore             | INR 40,000/month                     | INR 27 LPA       |
-| 4           | 23-04-2025               | [Juspay Technologies](#)   | PE               | Bangalore    | INR 40,000/month            | INR 21 LPA       |
-| 5           | 23-04-2025               | [Juspay Technologies](#)         | Product Design               | Bangalore       | INR 40,000/month            | INR 19 LPA       |
-| 6           | 23-04-2025               | [Juspay Technologies](#)       | PSE               | Bangalore          | INR 30,000/month          | INR 11 LPA     |
-| 7           | 23-04-2025               | [Josh Technology Group](#)           | Software Developer               | Gurugram          |   INR 22,500/month        |   INR 15,23,200/year    |
-| 8           | 23-04-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |   INR 20,000/month        | INR 6,03,600/year      |
-| 9           | 23-04-2025               | [Josh Technology Group](#)           | Front End Developer               | Gurugram          |   INR 22,500/month        | INR 12,93,300/year      |
+| 1           | 21-02-2025               | [Vivnovation](#)      | Vivnovator                | Remote                | INR 15,000           | INR 20 LPA       |
+| 2           | 18-03-2025               | [Cisco](#)            |                |                 | INR 98,000          | INR 22.00 LPA       |
+| 3           | 23-04-2025               | [Juspay Technologies](#) | SDE          | Bangalore             | INR 40,000                   | INR 27 LPA       |
+| 4           | 23-04-2025               | [Juspay Technologies](#)   | PE               | Bangalore    | INR 40,000            | INR 21 LPA       |
+| 5           | 23-04-2025               | [Juspay Technologies](#)         | Product Design               | Bangalore       | INR 40,000           | INR 19 LPA       |
+| 6           | 23-04-2025               | [Juspay Technologies](#)       | PSE               | Bangalore          | INR 30,000        | INR 11 LPA     |
+| 7           | 23-04-2025               | [Josh Technology Group](#)           | Software Developer               | Gurugram          |   INR 22,500    |   INR 15,23,200/year    |
+| 8           | 23-04-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |   INR 20,000        | INR 6,03,600/year      |
+| 9           | 23-04-2025               | [Josh Technology Group](#)           | Front End Developer               | Gurugram          |   INR 22,500       | INR 12,93,300/year      |
 | 10          | 28-05-2025               | [Coforge](#)            |              | PAN India             |            | INR 4.25 LPA       |
 | 11          | 31-05-2025               | [DeltaX](#)            | Associate Product Engineer   | Bangalore, Hyderabad and Pune           |             | INR 7 LPA       |
-| 12          | 02-06-2025               | [Allsoft Solutions Pvt.Ltd](#)         | Trainee Software Engineer-Research and Development               | Noida/Chandigarh             | INR 20,000/month           | INR 7 LPA       |
-| 13          | 19-06-2025               | [EZ](#)          | Backend Developer Intern           | Gurugram      | INR 15,000 - 18,000/month            | upto INR 5 LPA       |
-| 14          | 19-06-2025               | [EZ](#)          | Data Science Intern           | Gurugram      | INR 15,000 - 18,000/month            | upto INR 5 LPA       |
-| 15          | 02-07-2025               | [Argusoft](#)           | Programmer Analyst            | Gujarat             | INR 21,000/month           | INR 7.12 LPA       |
-| 16          | 03-07-2025               | [Consat Orahi](#)             | QA Intern            | Gurugram    | INR 15,000/month          | upto INR 4.2 LPA       |
-| 17          | 03-07-2025               | [Consat Orahi](#)             | Frontend React Intern            | Gurugram    | INR 15,000/month          | upto INR 4.2 LPA       |
-| 18          | 03-07-2025               | [Consat Orahi](#)             | Backend Python Intern            | Gurugram    | INR 15,000/month          | upto INR 4.2 LPA       |
-| 19          | 03-07-2025               | [Consat Orahi](#)             | Operations            | Gurugram    | INR 15,000/month          | upto INR 4.2 LPA       |
-| 20          | 03-07-2025               | [Consat Orahi](#)             | AI            | Gurugram    | INR 15,000/month          | upto INR 5 LPA       |
-| 21          | 03-07-2025               | [Consat Orahi](#)             | UI/UX Intern            | Gurugram    | INR 15,000/month          | upto INR 4.2 LPA       |
-| 22          | 12-02-2026               | [DotPe](#)         |                 | Gurgaon      | INR 20,000/month          | upto INR 5 LPA       |
+| 12          | 02-06-2025               | [Allsoft Solutions Pvt.Ltd](#)         | Trainee Software Engineer-Research and Development               | Noida/Chandigarh             | INR 20,000          | INR 7 LPA       |
+| 13          | 19-06-2025               | [EZ](#)          | Backend Developer Intern           | Gurugram      | INR 15,000 - 18,000           | upto INR 5 LPA       |
+| 14          | 19-06-2025               | [EZ](#)          | Data Science Intern           | Gurugram      | INR 15,000 - 18,000          | upto INR 5 LPA       |
+| 15          | 02-07-2025               | [Argusoft](#)           | Programmer Analyst            | Gujarat             | INR 21,000         | INR 7.12 LPA       |
+| 16          | 03-07-2025               | [Consat Orahi](#)             | QA Intern            | Gurugram    | INR 15,000        | upto INR 4.2 LPA       |
+| 17          | 03-07-2025               | [Consat Orahi](#)             | Frontend React Intern            | Gurugram    | INR 15,000         | upto INR 4.2 LPA       |
+| 18          | 03-07-2025               | [Consat Orahi](#)             | Backend Python Intern            | Gurugram    | INR 15,000          | upto INR 4.2 LPA       |
+| 19          | 03-07-2025               | [Consat Orahi](#)             | Operations            | Gurugram    | INR 15,000        | upto INR 4.2 LPA       |
+| 20          | 03-07-2025               | [Consat Orahi](#)             | AI            | Gurugram    | INR 15,000          | upto INR 5 LPA       |
+| 21          | 03-07-2025               | [Consat Orahi](#)             | UI/UX Intern            | Gurugram    | INR 15,000         | upto INR 4.2 LPA       |
+| 22          | 12-02-2026               | [DotPe](#)         |                 | Gurgaon      | INR 20,000      | upto INR 5 LPA       |
 | 23          | 28-02-2026               | [Twitter](#)          | Intern               | San Francisco, USA    | USD 6k/month            | USD 125K/year       |
 | 24          | 14-03-2026               | [Dell](#)             | Engineer             | Bengaluru             | INR 35k/month           | INR 17.00 LPA       |
 | 25          | 30-03-2026               | [Wipro](#)            | QA Engineer          | Gurugram              | INR 20k/month           | INR 10.00 LPA       |
