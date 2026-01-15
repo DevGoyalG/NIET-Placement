@@ -30,32 +30,35 @@ Here is a table of companies that have visited NIET for placements:
 | 19          | 03-07-2025               | [Consat Orahi](#)             | Operations            | Gurugram    | INR 15,000        | upto INR 4.2 LPA       |
 | 20          | 03-07-2025               | [Consat Orahi](#)             | AI            | Gurugram    | INR 15,000          | upto INR 5 LPA       |
 | 21          | 03-07-2025               | [Consat Orahi](#)             | UI/UX Intern            | Gurugram    | INR 15,000         | upto INR 4.2 LPA       |
-| 22          | 12-02-2026               | [DotPe](#)         |                 | Gurgaon      | INR 20,000      | upto INR 5 LPA       |
-| 23          | 28-02-2026               | [Twitter](#)          | Intern               | San Francisco, USA    | USD 6k/month            | USD 125K/year       |
-| 24          | 14-03-2026               | [Dell](#)             | Engineer             | Bengaluru             | INR 35k/month           | INR 17.00 LPA       |
-| 25          | 30-03-2026               | [Wipro](#)            | QA Engineer          | Gurugram              | INR 20k/month           | INR 10.00 LPA       |
-| 26          | 15-04-2026               | [HCL](#)              | Developer            | Noida                 | INR 18k/month           | INR 11.20 LPA       |
-| 27          | 27-05-2026               | [Infosys](#)          | Developer            | Bangalore             | INR 22k/month           | INR 12.50 LPA       |
-| 28          | 11-06-2026               | [TCS](#)              | QA Engineer          | Noida                 | INR 15k/month           | INR 10.00 LPA       |
-| 29          | 23-07-2026               | [Capgemini](#)        | Analyst              | Gurgaon               | INR 25k/month           | INR 9.00 LPA        |
-| 30          | 02-08-2026               | [PayTM](#)            | Backend Developer    | Noida                 | INR 30k/month           | INR 15.00 LPA       |
-| 31          | 21-02-2025               | [Vivnovation](#)      | Intern               | Remote                | INR 15k/month           | INR 20.00 LPA       |
-| 32          | 18-03-2025               | [Cisco](#)            | Intern               | Remote                | INR 98k/month           | INR 22.00 LPA       |
-| 33          | 23-04-2025               | [Juspay Technologies](#) | Developer          | Bangalore             | N/A                     | INR 27.00 LPA       |
-| 34          | 25-05-2025               | [Google](#)           | Intern               | Mountain View, USA    | USD 7k/month            | USD 150K/year       |
-| 35          | 30-06-2025               | [Facebook](#)         | Intern               | Menlo Park, USA       | USD 6k/month            | USD 140K/year       |
-| 36          | 12-07-2025               | [Microsoft](#)        | Intern               | Redmond, USA          | USD 6.5k/month          | USD 145K/year       |
-| 37          | 05-08-2025               | [Amazon](#)           | Intern               | Seattle, USA          | USD 6.2k/month          | USD 145K/year       |
-| 38          | 15-08-2025               | [Adobe](#)            | Software Engineer    | Noida                 | INR 50k/month           | INR 33.00 LPA       |
-| 39          | 02-09-2025               | [Apple](#)            | Intern               | Cupertino, USA        | USD 8k/month            | USD 160K/year       |
-| 40          | 12-09-2025               | [Intel](#)            | Engineer             | Bangalore             | INR 40k/month           | INR 15.00 LPA       |
-| 41          | 18-09-2025               | [Tesla](#)            | Engineering Intern   | Austin, USA           | USD 9k/month            | USD 180K/year       |
-| 42          | 24-09-2025               | [Flipkart](#)         | Intern               | Bangalore             | INR 30k/month           | INR 20.00 LPA       |
-| 43          | 01-10-2025               | [Netflix](#)          | Developer            | Los Angeles, USA      | USD 8k/month            | USD 200K/year       |
-| 44          | 15-10-2025               | [Qualcomm](#)         | Engineer             | San Diego, USA        | USD 5k/month            | USD 130K/year       |
-| 45          | 03-11-2025               | [Oracle](#)           | Developer            | Bengaluru             | INR 40k/month           | INR 19.50 LPA       |
-| 46          | 17-11-2025               | [Uber](#)             | Developer            | San Francisco, USA    | USD 7.5k/month          | USD 145K/year       |
-| 47          | 01-12-2025               | [Airbnb](#)           | Research Intern      | Remote                | USD 6.5k/month          | USD 135K/year       |
+| 22          | 12-07-2025               | [DotPe](#)         |                 | Gurgaon      | INR 20,000      | upto INR 5 LPA       |
+| 23          | 28-07-2025               | [CVENT](#)          | Associate Product Consultant               |     | INR 25,000           | INR 6 LPA        |
+| 24          | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           | INR 4 LPA       |
+| 25          | 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           | INR 5.40 LPA       |
+| 26          | 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           | INR 6.75 LPA       |
+| 27          | 12-08-2025               | [MAQ Software](#)          | Associate Desktop Support Engineer            | Bangalore             |            | INR 4 - 6 LPA       |
+| 28          | 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     | INR 25,000           | INR 6 LPA        |
+| 29          | 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               | INR 15,000          | INR 4 - 5 LPA        |
+| 30          | 18-08-2025               | [Xcelore](#)        | JVM Engineer – Trainee              | Noida              | INR 15,000          | INR 4 - 5 LPA        |
+| 31          | 18-08-2025               | [Xcelore](#)        | JavaScript/UI Engineer – Trainee              |Noida  | INR 15,000          | INR 4 - 5 LPA        |
+| 32          | 18-08-2025               | [Xcelore](#)        | DevOps Engineer – Trainee            | Noida              | INR 15,000          | INR 4 - 5 LPA        |
+| 33          | 18-08-2025               | [Xcelore](#)        | Mobile & Smart TV Application Developer – Trainee            | Noida               | INR 15,000          | INR 4 - 5 LPA        |
+| 34          | 18-08-2025               | [Xcelore](#)        | 	
+IoT Engineer – Trainee          | Noida              | INR 15,000          | INR 4 - 5 LPA        |
+| 35          | 18-08-2025               | [Xcelore](#)        |	
+Quality Assurance Engineer – Trainee            |Noida               | INR 15,000          | INR 4 - 5 LPA        |
+| 36          | 18-08-2025               | [Xcelore](#)        |Project Coordinator – Trainee             | Noida               | INR 15,000          | INR 4 - 5 LPA        |
+| 37          | 18-08-2025               | [Xcelore](#)        | HR / IT / Admin – Trainee           | Noida                | INR 15,000          | INR 4 - 5 LPA        |
+| 38          | 18-08-2025               | [Xcelore](#)        | 	
+Business Development Executive – Trainee            | Noida               | INR 15,000          | INR 4 - 5 LPA        |
+| 39          | 22-08-2025               | [Contevolve](#)            |    Web/Application Developer           | Noida        | INR 25,000            | INR 7 LPA      |
+| 40          | 22-08-2025               | [Contevolve](#)            |  Java Core Developer             | Noida        | INR 25,000            | INR 7 LPA      |
+| 41          | 22-08-2025               | [Contevolve](#)            |   DevOps Engineer            | Noida        | INR 25,000            | INR 7 LPA      |
+| 42          | 22-08-2025               | [Contevolve](#)            |    Testing Engineer           | Noida        | INR 25,000            | INR 7 LPA      |
+| 43          | 22-08-2025               | [Contevolve](#)            |      Application Developer         | Noida        | INR 25,000            | INR 7 LPA      |
+| 44          | 22-08-2025               | [Contevolve](#)            |      BI Developer         | Noida        | INR 25,000            | INR 7 LPA      |
+| 45          | 22-08-2025               | [Contevolve](#)            |    AI/ML Engineer           | Noida        | INR 25,000            | INR 7 LPA      |
+| 46          | 22-08-2025               | [Contevolve](#)            |        Product Support       | Noida        | INR 25,000            | INR 7 LPA      |
+| 47          | 27-08-2025               | [IBM](#)           | Associate System Engineer      | Bangalore                 |           | INR 4.5 LPA + 20,000      |
 | 48          | 15-12-2025               | [Intel](#)            | Engineer             | Hyderabad             | INR 45k/month           | INR 14.00 LPA       |
 | 49          | 31-12-2025               | [LinkedIn](#)         | Design Intern        | Sunnyvale, USA        | USD 7k/month            | USD 150K/year       |
 | 50          | 10-01-2026               | [Salesforce](#)       | Engineer             | San Francisco, USA    | USD 6.5k/month          | USD 140K/year       |
