@@ -10,7 +10,7 @@ Here is a table of companies that have visited NIET for placements:
 | **Sr. No.** | **Date of Notification** | **Company Name**      | **Role**             | **Location**          | **Internship Stipend (Per Month)** | **Offered Package** |
 |-------------|--------------------------|-----------------------|----------------------|-----------------------|-------------------------|---------------------|
 | 1           | 21-02-2025               | [Vivnovation](#)      | Vivnovator                | Remote                | INR 15,000           | INR 20 LPA       |
-| 2           | 18-03-2025               | [Cisco](#)            |                |                 | INR 98,000          | INR 22.00 LPA       |
+| 2           | 18-03-2025               | [Cisco](#)            |                |                 | INR 98,000          | INR 22 LPA       |
 | 3           | 23-04-2025               | [Juspay Technologies](#) | SDE          | Bangalore             | INR 40,000                   | INR 27 LPA       |
 | 4           | 23-04-2025               | [Juspay Technologies](#)   | PE               | Bangalore    | INR 40,000            | INR 21 LPA       |
 | 5           | 23-04-2025               | [Juspay Technologies](#)         | Product Design               | Bangalore       | INR 40,000           | INR 19 LPA       |
