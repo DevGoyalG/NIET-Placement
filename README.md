@@ -92,16 +92,23 @@ Here is a table of companies that have visited NIET for placements:
 | 80          | 31-10-2025               | [Internet Research Bureau (Only Boys)](#)            | Trainee Survey Programmer   |    Noida     |    INR 18,000        | 	INR 4 LPA        |
 | 81          | 31-10-2025               | [Josh Technology Group](#)           | Analyst- Outcome Based Learning              | Gurugram          |   INR 20,000        | INR 9,31,000/year      |
 | 82          | 04-11-2025               | [Primathon Technology Ventures Pvt. Ltd](#)            | Associate Software Developer  |    Gurugram    |   INR 15,000        | 	INR 5 - 6 LPA        |
-| 82          | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |      |         | 	     |
+| 84          | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |   INR 15,000        | 	INR 4 LPA + 1 Lakh        |
+| 82          | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |   INR 30,500      | 	INR 5.10 LPA     |
 | 82          | 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |      |     INR 20,000    | 	INR 5,33,400/year     |
 | 83          | 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |   INR 20,000        | INR 6 LPA       |
+| 83          | 13-11-2025               | [Sopra Steria India](#)           | Engineer Trainee            | Noida, Chennai, Bangalore          |          | INR 6 LPA       |
 | 83          | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |   INR 20,000        | INR 6 LPA + 50,000       |
-| 83          | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |   INR 20,000        | INR 6.5 LPA + 50,000     |
-| 84          | 18-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |   INR 15,000        | 	INR 4 LPA + 1 Lakh        |
+| 83          | 14-11-2025               | [myNachiketa](#)           | AI Engineer             | New Delhi          |   INR 20,000        | INR 6.5 LPA + 50,000     |
+| 83          | 14-11-2025               | [Cloud Analogy](#)           | Trainee           | Mohali / Noida / Gurugram          |   INR 17,288        | INR 3.5 LPA      |
+| 84          | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |   INR 15,000        | 	INR 4 LPA + 1 Lakh        |
 | 84          | 18-11-2025               | [GoDaddy](#)            |  Software Development Engineer |    Remote     |   INR 50,000        | 	INR 44 LPA        |
-| 85          | 18-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |   INR 40,000        | 	INR 10.12 LPA        |
+| 85          | 19-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |   INR 40,000        | 	INR 10.12 LPA        |
 | 86          | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          | INR 30,000        | INR 11 LPA     |
 | 86          | 20-11-2025               | [Ishan Technologies](#)       |                |          |      |      |
+| 86          | 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          | INR 25000        | INR 4.9 LPA     |
+| 86          | 25-11-2025               | [Hecta](#)       |                | Noida       | INR 12,000        | INR 4 LPA     |
+| 86          | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | | INR 3.5 - 4.5 LPA     |
+| 86          | 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | | INR 4.71 LPA     |
 | 86          | 01-12-2025               | [Nucleus Software](#)       | Assistant Software Engineer               | Noida         | INR 30,000        | INR 5,08,658/year     |
 
 
