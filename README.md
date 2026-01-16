@@ -61,9 +61,9 @@ Here is a table of companies that have visited NIET for placements:
 | 50          | 03-09-2025               | [Bangmetric](#)       | Tech Intern             | Noida    | INR 10,000 - 20,000          | INR 3.5 - 6 LPA       |
 | 51          | 04-09-2025               | [Josh Technology Group](#)           | Associate Software Developer               | Gurugram          |   INR 22,500    |   INR 11,58,000/year    |
 | 52          | 06-09-2025               | [LTIMindtree](#)           |    Graduate Engineer Trainee   |PAN India                 |           | INR 4,05,233/year     |
-| 53          | 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           | INR /year    |
-| 54          | 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           | INR /year    |
-| 55          | 11-09-2025               | [Accenture](#)           |   Advanced Application Engineer    |PAN India                 |           | INR /year    |
+| 53          | 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           |     |
+| 54          | 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           |     |
+| 55          | 11-09-2025               | [Accenture](#)           |   Advanced Application Engineer    |PAN India                 |           |     |
 | 56          | 20-09-2025               | [DeltaX](#)            | Product Analyst   | Bangalore           |             | 	INR 10 Lakhs over 2 years       |
 | 57          | 20-09-2025               | [DeltaX](#)            | Digital Marketing Champion   | Pune           |             | 	INR 10 Lakhs over 2 years       |
 | 58          | 20-09-2025               | [DeltaX](#)            | Business Operations Analyst   | Bangalore and Pune           |             | 	INR 10 Lakhs over 2 years       |
@@ -79,7 +79,7 @@ Here is a table of companies that have visited NIET for placements:
 | 68          | 27-09-2025               | [Pramaanit Technologies](#)            | Backend Developer | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
 | 69          | 27-09-2025               | [Think41](#)            | Full Stack Engineer   | 	Bengaluru, Karnataka           |   INR 25,000          | 	INR 5.5 - 7 LPA        |
 | 70          | 29-09-2025               | [Webkul](#)            | Trainee Software Analyst-Python   | Noida           |   INR 23,500          | 	INR 4.2 LPA        |
-| 71          | 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |   INR 20,000          | 	INR  LPA        |
+| 71          | 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |   INR 20,000          | 	      |
 | 72          | 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |   INR 21,500          | 	INR 5 LPA + 1 Lakh       |
 | 73          | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |   INR 40,000          | 	INR 10 LPA        |
 | 74          | 14-10-2025               | [Namma Yatri](#)            | Quality Engineer (QA)   |    Bengaluru     |   INR 30,000          | 	INR 9 LPA        |
@@ -88,13 +88,21 @@ Here is a table of companies that have visited NIET for placements:
 | 77          | 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	INR 9.09 LPA        |
 | 78          | 17-10-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |   INR 20,000        | INR 5,76,900/year      |
 | 79          | 27-10-2025               | [TATA POWER](#)            | SEED (Student Engagement and Experiential Development)  |    PAN India     |   INR 20,000        | 	INR 6.75 LPA        |
-| 80          | 31-10-2025               | [Internet Research Bureau](#)            | Trainee Survey Programmer   |    Noida     |    INR 18,000        | 	INR 4 LPA        |
+| 79          | 30-10-2025               | [IBM (Only Girls)](#)            | Associate System Engineer  |    Bangalore      |   INR 20,000        | 	INR 4.5 LPA + 25,000        |
+| 80          | 31-10-2025               | [Internet Research Bureau (Only Boys)](#)            | Trainee Survey Programmer   |    Noida     |    INR 18,000        | 	INR 4 LPA        |
 | 81          | 31-10-2025               | [Josh Technology Group](#)           | Analyst- Outcome Based Learning              | Gurugram          |   INR 20,000        | INR 9,31,000/year      |
 | 82          | 04-11-2025               | [Primathon Technology Ventures Pvt. Ltd](#)            | Associate Software Developer  |    Gurugram    |   INR 15,000        | 	INR 5 - 6 LPA        |
+| 82          | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |      |         | 	     |
+| 82          | 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |      |     INR 20,000    | 	INR 5,33,400/year     |
 | 83          | 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |   INR 20,000        | INR 6 LPA       |
-| 84          | 18-11-2025               | [GoDaddy ](#)            |  Software Development Engineer |    Remote     |   INR 50,000        | 	INR 44 LPA        |
-| 85          | 18-11-2025               | [GoDaddy ](#)            |  Data Analyst Intern |    Remote     |   INR 40,000        | 	INR 10.12 LPA        |
+| 83          | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |   INR 20,000        | INR 6 LPA + 50,000       |
+| 83          | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |   INR 20,000        | INR 6.5 LPA + 50,000     |
+| 84          | 18-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |   INR 15,000        | 	INR 4 LPA + 1 Lakh        |
+| 84          | 18-11-2025               | [GoDaddy](#)            |  Software Development Engineer |    Remote     |   INR 50,000        | 	INR 44 LPA        |
+| 85          | 18-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |   INR 40,000        | 	INR 10.12 LPA        |
 | 86          | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          | INR 30,000        | INR 11 LPA     |
+| 86          | 20-11-2025               | [Ishan Technologies](#)       |                |          |      |      |
+| 86          | 01-12-2025               | [Nucleus Software](#)       | Assistant Software Engineer               | Noida         | INR 30,000        | INR 5,08,658/year     |
 
 
 
