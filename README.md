@@ -88,28 +88,32 @@ Here is a table of companies that have visited NIET for placements:
 | 77          | 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	INR 9.09 LPA        |
 | 78          | 17-10-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |   INR 20,000        | INR 5,76,900/year      |
 | 79          | 27-10-2025               | [TATA POWER](#)            | SEED (Student Engagement and Experiential Development)  |    PAN India     |   INR 20,000        | 	INR 6.75 LPA        |
-| 79          | 30-10-2025               | [IBM (Only Girls)](#)            | Associate System Engineer  |    Bangalore      |   INR 20,000        | 	INR 4.5 LPA + 25,000        |
-| 80          | 31-10-2025               | [Internet Research Bureau (Only Boys)](#)            | Trainee Survey Programmer   |    Noida     |    INR 18,000        | 	INR 4 LPA        |
-| 81          | 31-10-2025               | [Josh Technology Group](#)           | Analyst- Outcome Based Learning              | Gurugram          |   INR 20,000        | INR 9,31,000/year      |
-| 82          | 04-11-2025               | [Primathon Technology Ventures Pvt. Ltd](#)            | Associate Software Developer  |    Gurugram    |   INR 15,000        | 	INR 5 - 6 LPA        |
+| 80          | 30-10-2025               | [IBM (Only Girls)](#)            | Associate System Engineer  |    Bangalore      |   INR 20,000        | 	INR 4.5 LPA + 25,000        |
+| 81          | 31-10-2025               | [Internet Research Bureau (Only Boys)](#)            | Trainee Survey Programmer   |    Noida     |    INR 18,000        | 	INR 4 LPA        |
+| 82          | 31-10-2025               | [Josh Technology Group](#)           | Analyst- Outcome Based Learning              | Gurugram          |   INR 20,000        | INR 9,31,000/year      |
+| 83          | 04-11-2025               | [Primathon Technology Ventures Pvt. Ltd](#)            | Associate Software Developer  |    Gurugram    |   INR 15,000        | 	INR 5 - 6 LPA        |
 | 84          | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |   INR 15,000        | 	INR 4 LPA + 1 Lakh        |
-| 82          | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |   INR 30,500      | 	INR 5.10 LPA     |
-| 82          | 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |      |     INR 20,000    | 	INR 5,33,400/year     |
-| 83          | 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |   INR 20,000        | INR 6 LPA       |
-| 83          | 13-11-2025               | [Sopra Steria India](#)           | Engineer Trainee            | Noida, Chennai, Bangalore          |          | INR 6 LPA       |
-| 83          | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |   INR 20,000        | INR 6 LPA + 50,000       |
-| 83          | 14-11-2025               | [myNachiketa](#)           | AI Engineer             | New Delhi          |   INR 20,000        | INR 6.5 LPA + 50,000     |
-| 83          | 14-11-2025               | [Cloud Analogy](#)           | Trainee           | Mohali / Noida / Gurugram          |   INR 17,288        | INR 3.5 LPA      |
-| 84          | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |   INR 15,000        | 	INR 4 LPA + 1 Lakh        |
-| 84          | 18-11-2025               | [GoDaddy](#)            |  Software Development Engineer |    Remote     |   INR 50,000        | 	INR 44 LPA        |
-| 85          | 19-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |   INR 40,000        | 	INR 10.12 LPA        |
-| 86          | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          | INR 30,000        | INR 11 LPA     |
-| 86          | 20-11-2025               | [Ishan Technologies](#)       |                |          |      |      |
-| 86          | 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          | INR 25000        | INR 4.9 LPA     |
-| 86          | 25-11-2025               | [Hecta](#)       |                | Noida       | INR 12,000        | INR 4 LPA     |
-| 86          | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | | INR 3.5 - 4.5 LPA     |
-| 86          | 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | | INR 4.71 LPA     |
-| 86          | 01-12-2025               | [Nucleus Software](#)       | Assistant Software Engineer               | Noida         | INR 30,000        | INR 5,08,658/year     |
+| 85          | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |   INR 30,500      | 	INR 5.10 LPA     |
+| 86          | 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |      |     INR 20,000    | 	INR 5,33,400/year     |
+| 87          | 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |   INR 20,000        | INR 6 LPA       |
+| 88          | 13-11-2025               | [Sopra Steria India](#)           | Engineer Trainee            | Noida, Chennai, Bangalore          |          | INR 6 LPA       |
+| 89          | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |   INR 20,000        | INR 6 LPA + 50,000       |
+| 90          | 14-11-2025               | [myNachiketa](#)           | AI Engineer             | New Delhi          |   INR 20,000        | INR 6.5 LPA + 50,000     |
+| 91          | 14-11-2025               | [Cloud Analogy](#)           | Trainee           | Mohali / Noida / Gurugram          |   INR 17,288        | INR 3.5 LPA      |
+| 92          | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |   INR 15,000        | 	INR 4 LPA + 1 Lakh        |
+| 93          | 18-11-2025               | [GoDaddy](#)            |  Software Development Engineer |    Remote     |   INR 50,000        | 	INR 44 LPA        |
+| 94          | 19-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |   INR 40,000        | 	INR 10.12 LPA        |
+| 95          | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          | INR 30,000        | INR 11 LPA     |
+| 96          | 20-11-2025               | [Ishan Technologies](#)       |                |          |      |      |
+| 97          | 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          | INR 25000        | INR 4.9 LPA     |
+| 98          | 25-11-2025               | [Hecta](#)       |                | Noida       | INR 12,000        | INR 4 LPA     |
+| 99          | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | | INR 3.5 - 4.5 LPA     |
+| 100          | 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | | INR 4.71 LPA     |
+| 101         | 01-12-2025               | [Nucleus Software](#)       | Assistant Software Engineer               | Noida         | INR 30,000        | INR 5,08,658/year     |
+| 102         | 10-12-2025               | [HummingBird Technologies](#)       |     Java Backend Developer          | Pune|  INR 30,000 | INR 9 LPA     |
+| 103         | 11-12-2025               | [Ingenuity Gaming](#)       |     	Trainee - Developer      | Noida       | INR 15,000 | INR 5 LPA     |
+| 104         | 12-12-2025               | [SYMB Technologies](#)       |     	Quality Assurance (QA)     | Noida       | INR 30,000 | INR 3.5 LPA     |
+| 105         | 12-12-2025               | [SYMB Technologies](#)       |     	Business Analyst (BA)      | Noida       | INR 30,000 | INR 3.5 LPA     |
 
 
 
