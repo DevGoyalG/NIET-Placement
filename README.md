@@ -21,8 +21,8 @@ Here is a table of companies that have visited NIET for placements:
 | 10          | 28-05-2025               | [Coforge](#)            |              | PAN India             |            | INR 4.25 LPA       |
 | 11          | 31-05-2025               | [DeltaX](#)            | Associate Product Engineer   | Bangalore, Hyderabad and Pune           |             | INR 7 LPA       |
 | 12          | 02-06-2025               | [Allsoft Solutions Pvt.Ltd](#)         | Trainee Software Engineer-Research and Development               | Noida/Chandigarh             | INR 20,000          | INR 7 LPA       |
-| 13          | 19-06-2025               | [EZ](#)          | Backend Developer Intern           | Gurugram      | INR 15,000 - 18,000           | upto INR 5 LPA       |
-| 14          | 19-06-2025               | [EZ](#)          | Data Science Intern           | Gurugram      | INR 15,000 - 18,000          | upto INR 5 LPA       |
+| 13          | 19-06-2025               | [EZ Lab Private Limited](#)          | Backend Developer Intern           | Gurugram      | INR 15,000 - 18,000           | upto INR 5 LPA       |
+| 14          | 19-06-2025               | [EZ Lab Private Limited](#)          | Data Science Intern           | Gurugram      | INR 15,000 - 18,000          | upto INR 5 LPA       |
 | 15          | 02-07-2025               | [Argusoft](#)           | Programmer Analyst            | Gujarat             | INR 21,000         | INR 7.12 LPA       |
 | 16          | 03-07-2025               | [Consat Orahi](#)             | QA Intern            | Gurugram    | INR 15,000        | upto INR 4.2 LPA       |
 | 17          | 03-07-2025               | [Consat Orahi](#)             | Frontend React Intern            | Gurugram    | INR 15,000         | upto INR 4.2 LPA       |
@@ -91,7 +91,7 @@ Here is a table of companies that have visited NIET for placements:
 | 80          | 31-10-2025               | [Internet Research Bureau](#)            | Trainee Survey Programmer   |    Noida     |    INR 18,000        | 	INR 4 LPA        |
 | 81          | 31-10-2025               | [Josh Technology Group](#)           | Analyst- Outcome Based Learning              | Gurugram          |   INR 20,000        | INR 9,31,000/year      |
 | 82          | 04-11-2025               | [Primathon Technology Ventures Pvt. Ltd](#)            | Associate Software Developer  |    Gurugram    |   INR 15,000        | 	INR 5 - 6 LPA        |
-| 83          | 12-11-2025               | [Reddoorz](#)           | Entry-Level Software Engineer             | Noida          |   INR 20,000        | INR 6 LPA       |
+| 83          | 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |   INR 20,000        | INR 6 LPA       |
 | 84          | 18-11-2025               | [GoDaddy ](#)            |  Software Development Engineer |    Remote     |   INR 50,000        | 	INR 44 LPA        |
 | 85          | 18-11-2025               | [GoDaddy ](#)            |  Data Analyst Intern |    Remote     |   INR 40,000        | 	INR 10.12 LPA        |
 | 86          | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          | INR 30,000        | INR 11 LPA     |
