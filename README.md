@@ -32,6 +32,7 @@ Here is a table of companies that have visited NIET for placements:
 | 21          | 03-07-2025               | [Consat Orahi](#)             | UI/UX Intern            | Gurugram    | INR 15,000         | upto INR 4.2 LPA       |
 | 22          | 12-07-2025               | [DotPe](#)         |                 | Gurgaon      | INR 20,000      | upto INR 5 LPA       |
 | 23          | 28-07-2025               | [CVENT](#)          | Associate Product Consultant               |     | INR 25,000           | INR 6 LPA        |
+| 23.2          | 01-08-2025               | [Razorpay](#)             | SDE             | Bangalore          |   INR 50,000        | INR 8 LPA       |
 | 24          | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           | INR 4 LPA       |
 | 25          | 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           | INR 5.40 LPA       |
 | 26          | 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           | INR 6.75 LPA       |
