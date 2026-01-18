@@ -32,7 +32,7 @@ Here is a table of companies that have visited NIET for placements:
 | 21          | 03-07-2025               | [Consat Orahi](#)             | UI/UX Intern            | Gurugram    | INR 15,000         | upto INR 4.2 LPA       |
 | 22          | 12-07-2025               | [DotPe](#)         |                 | Gurgaon      | INR 20,000      | upto INR 5 LPA       |
 | 23          | 28-07-2025               | [CVENT](#)          | Associate Product Consultant               |     | INR 25,000           | INR 6 LPA        |
-| 23.2          | 01-08-2025               | [Razorpay](#)             | SDE             | Bangalore          |   INR 50,000        | INR 8 LPA       |
+| 23.2        | 01-08-2025               | [Razorpay](#)             | PSE             | Bangalore          |   INR 50,000        | INR 8 LPA       |
 | 24          | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           | INR 4 LPA       |
 | 25          | 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           | INR 5.40 LPA       |
 | 26          | 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           | INR 6.75 LPA       |
@@ -81,6 +81,7 @@ Here is a table of companies that have visited NIET for placements:
 | 69          | 27-09-2025               | [Think41](#)            | Full Stack Engineer   | 	Bengaluru, Karnataka           |   INR 25,000          | 	INR 5.5 - 7 LPA        |
 | 70          | 29-09-2025               | [Webkul](#)            | Trainee Software Analyst-Python   | Noida           |   INR 23,500          | 	INR 4.2 LPA        |
 | 71          | 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |   INR 20,000          | 	      |
+| 21.2        | 09-10-2025               | [Razorpay](#)             | PSE             | Bangalore          |   INR 50,000        | INR 8 LPA       |
 | 72          | 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |   INR 21,500          | 	INR 5 LPA + 1 Lakh       |
 | 73          | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |   INR 40,000          | 	INR 10 LPA        |
 | 74          | 14-10-2025               | [Namma Yatri](#)            | Quality Engineer (QA)   |    Bengaluru     |   INR 30,000          | 	INR 9 LPA        |
