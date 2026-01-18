@@ -7,8 +7,8 @@ This repository serves as a detailed resource for students aspiring for placemen
 
 Here is a table of companies that have visited NIET for placements:
 
-| **Sr. No.** | **Date of Notification** | **Company Name**      | **Role**             | **Location**          | **Internship Stipend (Per Month)** | **Offered Package** |
-|-------------|--------------------------|-----------------------|----------------------|-----------------------|-------------------------|---------------------|
+| **Sr. No.** | **Date of Notification** | **Company Name**      | **Role**             | **Location**          | **Internship Stipend (Per Month)** | **Offered Package** | **Students Hired** |
+|-------------|--------------------------|-----------------------|----------------------|-----------------------|-------------------------|---------------------|---------------------|
 | 1           | 21-02-2025               | [Vivnovation](#)      | Vivnovator                | Remote                | INR 15,000           | INR 20 LPA       |
 | 2           | 18-03-2025               | [Cisco](#)            |                |                 | INR 98,000          | INR 22 LPA       |
 | 3           | 23-04-2025               | [Juspay Technologies](#) | SDE          | Bangalore             | INR 40,000                   | INR 27 LPA       |
