@@ -83,7 +83,7 @@ Here is a table of companies that have visited NIET for placements:
 | 27-09-2025               | [Pramaanit Technologies](#)            | Backend Developer | Remote         |      INR 8,000 - 10,000       | 	INR 4.5 - 6 LPA        |
 | 27-09-2025               | [Think41](#)            | Full Stack Engineer   | 	Bengaluru, Karnataka           |   INR 25,000          | 	INR 5.5 - 7 LPA        |
 | 29-09-2025               | [Webkul](#)            | Trainee Software Analyst-Python   | Noida           |   INR 23,500          | 	INR 4.2 LPA        |
-| 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |   INR 20,000          | 	      |
+| 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |   INR 20,000          | 	 INR 6 LPA     |
 | 09-10-2025               | [Razorpay](#)             | PSE             | Bangalore          |   INR 50,000        | INR 8 LPA       |
 | 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |   INR 21,500          | 	INR 5 LPA + 1 Lakh       |
 | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |   INR 40,000          | 	INR 10 LPA        |
