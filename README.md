@@ -1,6 +1,6 @@
-# NIET Placement Information
+# NIET On-campus Placement Information
 
-This repository serves as a detailed resource for students aspiring for placements at NIET (Noida Institute of Engineering and Technology). It includes a list of companies that have hired NIET students in 2026 with relevant details like location, offered package, stipend, and the branches they typically hire from.
+This repository serves as a detailed resource for students aspiring for on-campus placements at NIET (Noida Institute of Engineering and Technology). It includes a list of companies that have hired NIET students in 2026 with relevant details like location, offered package, stipend, and the branches they typically hire from.
 
 ---
 ## Recent Placement Records
@@ -116,6 +116,17 @@ Here is a table of companies that have visited NIET for placements:
 | 103         | 11-12-2025               | [Ingenuity Gaming](#)       |     	Trainee - Developer      | Noida       | INR 15,000 | INR 5 LPA     |
 | 104         | 12-12-2025               | [SYMB Technologies](#)       |     	Quality Assurance (QA)     | Noida       | INR 30,000 | INR 3.5 LPA     |
 | 105         | 12-12-2025               | [SYMB Technologies](#)       |     	Business Analyst (BA)      | Noida       | INR 30,000 | INR 3.5 LPA     |
+| 106         | 01-01-2026               | [Virtuous Digital Ltd](#)       |     	Solution Engineer Associate)     | Gurgaon       |  | INR 5 - 6.5 LPA     |
+| 107         | 03-01-2025               | [Ethara AI (Only 1 Month Intern)](#)       |     	AI Enginner      | Gurugram      | INR 30,000 |      |
+| 108         | 06-01-2026               | [Appinventiv Technologies Pvt Ltd](#)       |     	Appinventive Software Trainee     | Noida       |  | INR 3.6 - 4.2 LPA     |
+| 109         | 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  | INR 5 LPA     |
+| 110         | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  | INR 3 - 5 LPA     |
+|         |                          | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |  | INR 4.6 LPA     |
+|         |              | [HashedIn by Deloitte ](#)       |     	Software Engineer     |        |  | INR 8.1 LPA     |
+|         |              | [EPAM](#)       |     	Developer     | Bangalore, Hyderabad       |  | INR 8.48 LPA     |
+|         |              | [Meritto](#)       |     	Operational      | Gurugram      |  |  INR 4 LPA    | 
+|         |              | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  | INR 8.5 LPA     |
+|         |              | [Cloud Analogy](#)       |     Trainee   | Noida     |  | INR 3.5 LPA     |
 
 
 
