@@ -18,7 +18,7 @@ Here is a table of companies that have visited NIET for placements:
 | 7           | 23-04-2025               | [Josh Technology Group](#)           | Software Developer               | Gurugram          |   INR 22,500    |   INR 15,23,200/year    |
 | 8           | 23-04-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |   INR 20,000        | INR 6,03,600/year      |
 | 9           | 23-04-2025               | [Josh Technology Group](#)           | Front End Developer               | Gurugram          |   INR 22,500       | INR 12,93,300/year      |
-| 10          | 28-05-2025               | [Coforge](#)            |              | PAN India             |            | INR 4.25 LPA       |
+| 10          | 28-05-2025               | [Coforge](#)            |              | PAN India             |            | INR 4 LPA + 25,000       |
 | 11          | 31-05-2025               | [DeltaX](#)            | Associate Product Engineer   | Bangalore, Hyderabad and Pune           |             | INR 7 LPA       |
 | 12          | 02-06-2025               | [Allsoft Solutions Pvt.Ltd](#)         | Trainee Software Engineer-Research and Development               | Noida/Chandigarh             | INR 20,000          | INR 7 LPA       |
 | 13          | 19-06-2025               | [EZ Lab Private Limited](#)          | Backend Developer Intern           | Gurugram      | INR 15,000 - 18,000           | upto INR 5 LPA       |
