@@ -56,6 +56,7 @@ Here is a table of companies that have visited NIET for placements:
 | 44          | 22-08-2025               | [Contevolve](#)            |      BI Developer         | Noida        | INR 25,000            | INR 7 LPA      |
 | 45          | 22-08-2025               | [Contevolve](#)            |    AI/ML Engineer           | Noida        | INR 25,000            | INR 7 LPA      |
 | 46          | 22-08-2025               | [Contevolve](#)            |        Product Support       | Noida        | INR 25,000            | INR 7 LPA      |
+| 46.2        | 26-08-2025               | [EPAM](#)       |     	Developer     | Hyderabad       | INR 27,500 | INR 8.48 LPA     |
 | 47          | 02-09-2025               | [Capgemini](#)           |    Analyst   |PAN India                 |           | INR 4 LPA + 25,000     |
 | 48          | 02-09-2025               | [Capgemini](#)           |    Analyst (Differential Hiring)   |PAN India                 |           | INR 5.50 LPA + 25,000    |
 | 49          | 02-09-2025               | [Capgemini](#)           |  Senior Analyst     |PAN India                 |           | INR 7.25 LPA + 25,000     |
@@ -110,7 +111,7 @@ Here is a table of companies that have visited NIET for placements:
 | 97          | 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          | INR 25000        | INR 4.9 LPA     |
 | 98          | 25-11-2025               | [Hecta](#)       |                | Noida       | INR 12,000        | INR 4 LPA     |
 | 99          | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | | INR 3.5 - 4.5 LPA     |
-| 100          | 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | | INR 4.71 LPA     |
+| 100         | 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | | INR 4.71 LPA     |
 | 101         | 01-12-2025               | [Nucleus Software](#)       | Assistant Software Engineer               | Noida         | INR 30,000        | INR 5,08,658/year     |
 | 102         | 10-12-2025               | [HummingBird Technologies](#)       |     Java Backend Developer          | Pune|  INR 30,000 | INR 9 LPA     |
 | 103         | 11-12-2025               | [Ingenuity Gaming](#)       |     	Trainee - Developer      | Noida       | INR 15,000 | INR 5 LPA     |
@@ -121,12 +122,10 @@ Here is a table of companies that have visited NIET for placements:
 | 108         | 06-01-2026               | [Appinventiv Technologies Pvt Ltd](#)       |     	Appinventive Software Trainee     | Noida       |  | INR 3.6 - 4.2 LPA     |
 | 109         | 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  | INR 5 LPA     |
 | 110         | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  | INR 3 - 5 LPA     |
-|         |                          | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |  | INR 4.6 LPA     |
-|         |              | [HashedIn by Deloitte ](#)       |     	Software Engineer     |        |  | INR 8.1 LPA     |
-|         |              | [EPAM](#)       |     	Developer     | Bangalore, Hyderabad       |  | INR 8.48 LPA     |
-|         |              | [Meritto](#)       |     	Operational      | Gurugram      |  |  INR 4 LPA    | 
-|         |              | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  | INR 8.5 LPA     |
-|         |              | [Cloud Analogy](#)       |     Trainee   | Noida     |  | INR 3.5 LPA     |
+|             |                          | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |  | INR 4.6 LPA     |
+|             |                          | [HashedIn by Deloitte ](#)       |     	Software Engineer     |        |  | INR 8.1 LPA     |
+|             |                          | [Meritto](#)       |     	Operational      | Gurugram      |  |  INR 4 LPA    | 
+|             |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  | INR 8.5 LPA     |
 
 
 
