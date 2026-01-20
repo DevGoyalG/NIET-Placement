@@ -110,6 +110,7 @@ Here is a table of companies that have visited NIET for placements:
 | 94          | 19-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |   INR 40,000        | 	INR 10.12 LPA        |
 | 95          | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          | INR 30,000        | INR 11 LPA     |
 | 96          | 20-11-2025               | [Ishan Technologies](#)       |                |          |      |      |
+| 96.2        | 24-11-2025                         | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      | INR 15,500 | INR 4.6 LPA     |
 | 97          | 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          | INR 25000        | INR 4.9 LPA     |
 | 98          | 25-11-2025               | [Hecta](#)       |                | Noida       | INR 12,000        | INR 4 LPA     |
 | 99          | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | | INR 3.5 - 4.5 LPA     |
@@ -124,7 +125,6 @@ Here is a table of companies that have visited NIET for placements:
 | 108         | 06-01-2026               | [Appinventiv Technologies Pvt Ltd](#)       |     	Appinventive Software Trainee     | Noida       |  | INR 3.6 - 4.2 LPA     |
 | 109         | 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  | INR 5 LPA     |
 | 110         | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  | INR 3 - 5 LPA     |
-|             |                          | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |  | INR 4.6 LPA     |
 |             |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  | INR 8.5 LPA     |
 
 
