@@ -125,7 +125,7 @@ Here is a table of companies that have visited NIET for placements:
 | 06-01-2026               | [Appinventiv Technologies Pvt Ltd](#)       |     	Appinventive Software Trainee     | Noida       |  | INR 3.6 - 4.2 LPA     |
 | 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  | INR 5 LPA     |
 | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  | INR 3 - 5 LPA     |
-|                          |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  | INR 8.5 LPA     |
+|                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  | INR 8.5 LPA     |
 
 
 
