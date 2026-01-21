@@ -65,8 +65,8 @@ Here is a table of companies that have visited NIET for placements:
 | 04-09-2025               | [HashedIn by Deloitte](#)       |     	Software Engineer     |  Gurgaon    | INR 25,000   | INR 8.1 LPA     |
 | 04-09-2025               | [Josh Technology Group](#)           | Associate Software Developer               | Gurugram          |   INR 22,500    |   INR 11,58,000/year    |
 | 06-09-2025               | [LTIMindtree](#)           |    Graduate Engineer Trainee   |PAN India                 |           | INR 4,05,233/year     |
-| 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           |     |
-| 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           |     |
+| 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           |  INR 3,45,000 - 4,44,280/year      |
+| 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           |  INR 4,90,000 - 6,28,140/year   |
 | 11-09-2025               | [Accenture](#)           |   Advanced Application Engineer    |PAN India                 |           |     |
 | 20-09-2025               | [DeltaX](#)            | Product Analyst   | Bangalore           |             | 	INR 10 Lakhs over 2 years       |
 | 20-09-2025               | [DeltaX](#)            | Digital Marketing Champion   | Pune           |             | 	INR 10 Lakhs over 2 years       |
