@@ -37,7 +37,7 @@ Here is a table of companies that have visited NIET for placements:
 | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           | INR 4 LPA       |
 | 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           | INR 5.40 LPA       |
 | 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           | INR 6.75 LPA       |
-| 12-08-2025               | [MAQ Software](#)          | Associate Desktop Support Engineer            | (Noida             |            | INR 4 - 6 LPA       |
+| 12-08-2025               | [MAQ Software](#)          | Associate Desktop Support Engineer            | Noida             |            | INR 4 - 6 LPA       |
 | 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     | INR 25,000           | INR 6 LPA        |
 | 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               | INR 15,000          | INR 4 - 5 LPA        |
 | 18-08-2025               | [Xcelore](#)        | JVM Engineer – Trainee              | Noida              | INR 15,000          | INR 4 - 5 LPA        |
