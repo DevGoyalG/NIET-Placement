@@ -129,10 +129,6 @@ Here is a table of companies that have visited NIET for placements:
 
 
 ---
-### Notes for Students:
-
-- Dates are tentative and subject to updates from the placement cell. 
-- Internship stipends are either reported by students or provided by companies. Verify details with the placement cell.
 
 ### Contributing:
 
