@@ -33,6 +33,23 @@ This repository includes:
 
 ---
 
+## 📊 Placement Statistics (Till 27-01-2026)
+
+- **Number of Company Notifications Issued:** 60
+<!--   
+- **Number of Companies Visited:**
+- **Total Offers Made:**   
+- **Total Students Placed:**   
+- **Placement Percentage:** XX%  
+-->
+- **Highest Package Offered:** INR 44 LPA  
+- **Lowest Package Offered:** INR 3.5 LPA  
+
+- **Highest Internship Stipend:** INR 50,000 / Month  
+- **Lowest Internship Stipend:** INR 8,000 / Month  
+
+---
+
 ## 📑 Recent Placement Records
 Below is the table containing companies that have visited NIET for **Batch 2026 placements**:
 
