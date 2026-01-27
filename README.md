@@ -171,6 +171,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  | INR 5 LPA     |
 | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  | INR 3 - 5 LPA     |
 | 27-01-2026               | [Floatingpoint AI](#)       |     	QA Specialist – Data Annotation     | Gurugram      |  | INR 7.5 LPA     |
+| 27-01-2025               | [Josh Technology Group](#)           | Inside Sales Strategist              | Gurugram          |   INR 18,000        | INR 3.75 LPA      |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  | INR 8.5 LPA     |
 
 ---
