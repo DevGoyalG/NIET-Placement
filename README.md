@@ -1,11 +1,40 @@
-# NIET On-campus Placement Information
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/DevGoyalG)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/DevGoyalG?tab=repositories)
 
-This repository serves as a detailed resource for students aspiring for on-campus placements at NIET (Noida Institute of Engineering and Technology). It includes a list of companies that have hired NIET students in 2026 with relevant details like location, offered package, stipend, and the branches they typically hire from.
+# 🎓 NIET On-Campus Placement Tracker (Batch 2026)
+ 
+This repository maintains a structured and transparent record of companies that have visited **Noida Institute of Engineering and Technology (NIET)** for **Batch 2026 on-campus placements**.
+
+The aim is to help students track placement opportunities, understand trends, and stay updated with official placement notifications.
+
+<p align="center">
+  <b>⭐ If you find this repository helpful, please give it a Star! ⭐</b>
+</p>
+
+<p align="center">
+  <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Segoe+script&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Goal+%3A+20+%E2%98%85" alt="Typing SVG" /></a> </p>
+</p>
 
 ---
-## Recent Placement Records
 
-Here is a table of companies that have visited NIET for placements:
+## 📌 Repository Highlights
+
+This repository includes:
+- 🗓️ Date of placement notification  
+- 🏢 Company name  
+- 💼 Offered role  
+- 📍 Job location (On-site / Hybrid / Remote)  
+- 💰 Internship stipend (if applicable)  
+- 📦 Final offered package (CTC)
+
+> ⚠️ This data is collected for **informational purposes only** and reflects **on-campus placement drives**.
+
+---
+
+## 📑 Recent Placement Records
+Below is the table containing companies that have visited NIET for **Batch 2026 placements**:
 
 | **Date of Notification** | **Company Name**      | **Role**             | **Location**          | **Internship Stipend (INR Per Month)** | **Offered Package (INR)** |
 |--------------------------|-----------------------|----------------------|-----------------------|-------------------------|---------------------|
@@ -127,17 +156,51 @@ Here is a table of companies that have visited NIET for placements:
 | 27-01-2026               | [Floatingpoint AI](#)       |     	QA Specialist – Data Annotation     | Gurugram      |  | INR 7.5 LPA     |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  | INR 8.5 LPA     |
 
+---
 
+## 🎯 Purpose of This Repository
+- Provides guidance to junior students for early and effective placement preparation
+- Helps students plan their placement strategy
+- Provides transparency in placement data
+- Acts as a quick reference for upcoming batch placements
+- Useful for analysis, preparation, and peer guidance
 
 ---
 
-### Contributing:
+## 📌 How You Can Help
 
-The NIET Placement repository encourages contributions to keep the data updated. Students and alumni are welcome to share relevant placement information.
-1. Fork this repository.
-2. Make necessary additions or updates to the details.
-3. Open a Pull Request with your changes.
+- ⭐ Star this repository if you find it useful!
+- 🔗 Share it with your friends and batchmates.
 
 ---
-### Contact:
-For any suggestions or inquiries, please feel free to open an issue or contact **DevGoyalG** (Repository Owner).
+
+## 📬 Contact & Support
+
+For suggestions, corrections, or queries:
+- Open an **Issue** in this repository  
+- Or contact **[DevGoyalG](https://www.linkedin.com/in/devgoyalg/)** (Repository Owner)
+
+---
+
+## 🤝 Connect with Me
+
+<a href="https://github.com/DevGoyalG" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/devgoyalg/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/dev_goyal_g/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://x.com/dev_goyal_g" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+---
+<p align="center">
+  <b>Thank you for visiting! Happy Learning 🚀</b>
+</p>
