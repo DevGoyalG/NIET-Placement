@@ -17,6 +17,10 @@ The aim is to help students track placement opportunities, understand trends, an
   <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Segoe+script&duration=1000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Goal+%3A+20+%E2%98%85" alt="Typing SVG" /></a> </p>
 </p>
 
+<p align="center">
+ 👉 <a href="https://chat.whatsapp.com/FcCGvDpIcYh5nBABAhB5Ly" target="_blank"><b>Join WhatsApp Group for more info about Placements</b></a> 👈
+</p>
+
 ---
 
 ## 📌 Repository Highlights
