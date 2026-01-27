@@ -29,7 +29,7 @@ This repository includes:
 - 💰 Internship stipend (if applicable)  
 - 📦 Final offered package (CTC)
 
-> ⚠️ This data is collected for **informational purposes only** and reflects **on-campus placement drives**.
+> ⚠️ **Note:** This repository covers on-campus placement drives conducted for **B.Tech and M.Tech students only**.
 
 ---
 
