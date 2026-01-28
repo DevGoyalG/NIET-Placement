@@ -69,7 +69,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 23-04-2025               | [Josh Technology Group](#)           | Front End Developer               | Gurugram          |   INR 22,500       | INR 12,93,300/year      |
 | 28-05-2025               | [Coforge](#)            |              | PAN India             |            | INR 4 LPA + 25,000       |
 | 31-05-2025               | [DeltaX](#)            | Associate Product Engineer   | Bangalore, Hyderabad, Pune           |             | INR 7 LPA       |
-| 02-06-2025               | [Allsoft Solutions Pvt.Ltd](#)         | Trainee Software Engineer - Research and Development   | Noida, Chandigarh             | INR 20,000          | INR 7 LPA       |
+| 02-06-2025               | [Allsoft Solutions And Services Pvt Ltd](#)         | Trainee Software Engineer - Research and Development   | Noida, Chandigarh             | INR 20,000          | INR 7 LPA       |
 | 12-06-2025               | [Meritto](#)       |     	Operational      | Gurugram      |  |  INR 4 LPA    | 
 | 19-06-2025               | [EZ Lab Private Limited](#)          | Backend Developer Intern           | Gurugram      | INR 15,000 - 18,000           | upto INR 5 LPA       |
 | 19-06-2025               | [EZ Lab Private Limited](#)          | Data Science Intern           | Gurugram      | INR 15,000 - 18,000          | upto INR 5 LPA       |
@@ -145,7 +145,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 30-10-2025               | [IBM (Only Girls)](#)            | Associate System Engineer  |    Bangalore      |   INR 20,000        | 	INR 4.5 LPA + 25,000        |
 | 31-10-2025               | [Internet Research Bureau (Only Boys)](#)            | Trainee Survey Programmer   |    Noida     |    INR 18,000        | 	INR 4 LPA        |
 | 31-10-2025               | [Josh Technology Group](#)           | Analyst- Outcome Based Learning              | Gurugram          |   INR 20,000        | INR 9,31,000/year      |
-| 04-11-2025               | [Primathon Technology Ventures Pvt. Ltd](#)            | Associate Software Developer  |    Gurugram    |   INR 15,000        | 	INR 5 - 6 LPA        |
+| 04-11-2025               | [Primathon Technology Ventures Pvt Ltd](#)            | Associate Software Developer  |    Gurugram    |   INR 15,000        | 	INR 5 - 6 LPA        |
 | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |   INR 15,000        | 	INR 4 LPA + 1 Lakh        |
 | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |   INR 30,500      | 	INR 5.10 LPA     |
 | 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |   Indore   |     INR 20,000    | 	INR 5,33,400/year     |
