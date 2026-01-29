@@ -63,14 +63,14 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 23-04-2025               | [Juspay Technologies](#) | SDE          | Bangalore             |    40,000                   |    27 LPA       | 3 |
 | 23-04-2025               | [Juspay Technologies](#)   | PE               | Bangalore    |    40,000            |    21 LPA       | 4 |
 | 23-04-2025               | [Juspay Technologies](#)         | Product Design               | Bangalore       |    40,000           |    19 LPA       |  |
-| 23-04-2025               | [Juspay Technologies](#)       | PSE               | Bangalore          |    30,000        |    11 LPA     |  |
+| 23-04-2025               | [Juspay Technologies](#)       | PSE               | Bangalore          |    30,000        |    11 LPA     | 4 |
 | 23-04-2025               | [Josh Technology Group](#)           | Software Developer               | Gurugram          |      22,500    |      15,23,200       |  |
 | 23-04-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |      20,000        |    6,03,600         |  |
 | 23-04-2025               | [Josh Technology Group](#)           | Front End Developer               | Gurugram          |      22,500       |    12,93,300         |  |
 | 28-05-2025               | [Coforge](#)            |              | PAN India             |            |    4 LPA + 25,000       |  |
 | 31-05-2025               | [DeltaX](#)            | Associate Product Engineer   | Bangalore, Hyderabad, Pune           |             |    7 LPA       | 2 |
 | 02-06-2025               | [Allsoft Solutions And Services Pvt Ltd](#)         | Trainee Software Engineer - Research and Development   | Noida, Chandigarh      |    20,000    |    7 LPA  | Not Visited |
-| 12-06-2025               | [Meritto](#)       |     	Operational      | Gurugram      |  |     4 LPA    |  |
+| 12-06-2025               | [Meritto](#)       |     	Operational      | Gurugram      | 15,000 |     4 LPA    | 15 - 20 (But all students left company) |
 | 19-06-2025               | [EZ Lab Private Limited](#)          | Backend Developer Intern           | Gurugram      |    15,000 - 18,000           | upto    5 LPA       |  |
 | 19-06-2025               | [EZ Lab Private Limited](#)          | Data Science Intern           | Gurugram      |    15,000 - 18,000          | upto    5 LPA       |  |
 | 02-07-2025               | [Argusoft](#)           | Programmer Analyst            | Gujarat             |    21,000         |    7.12 LPA       | |
@@ -86,7 +86,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           |    4 LPA       | 170 |
 | 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           |    5.40 LPA       |  |
 | 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           |    6.75 LPA       |  |
-| 12-08-2025               | [MAQ Software](#)          | Associate Software Engineer            | Noida             |  25,000          |    4 - 6 LPA       |  |
+| 12-08-2025               | [MAQ Software](#)          | Associate Software Engineer            | Noida             |  25,000          |     6 LPA       |  |
 | 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        |  |
 | 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               |    15,000          |    4 - 5 LPA        | Ongoing |
 | 18-08-2025               | [Xcelore](#)        | JVM Engineer – Trainee              | Noida              |    15,000          |    4 - 5 LPA        | Ongoing |
@@ -106,12 +106,12 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 22-08-2025               | [Contevolve](#)            |      BI Developer         | Noida        |    25,000            |    7 LPA      | Not Visited |
 | 22-08-2025               | [Contevolve](#)            |    AI/ML Engineer           | Noida        |    25,000            |    7 LPA      | Not Visited |
 | 22-08-2025               | [Contevolve](#)            |        Product Support       | Noida        |    25,000            |    7 LPA      | Not Visited |
-| 26-08-2025               | [EPAM](#)       |     	Developer     | Hyderabad       |    27,500 |    8.48 LPA     |  |
+| 26-08-2025               | [EPAM](#)       |     	Developer     | Hyderabad       |    27,500 |    8.48 LPA     | 10 |
 | 02-09-2025               | [Capgemini](#)           |    Analyst   |PAN India                 |           |    4 LPA + 25,000     | 229 |
 | 02-09-2025               | [Capgemini](#)           |    Analyst (Differential Hiring)   |PAN India                 |           |    5.50 LPA + 25,000    | 32 |
 | 02-09-2025               | [Capgemini](#)           |  Senior Analyst     |PAN India                 |           |    7.25 LPA + 25,000     | 7 |
 | 03-09-2025               | [Bangmetric](#)       | Tech Intern             | Noida    |    10,000 - 20,000          |    3.5 - 6 LPA       | 9 |
-| 04-09-2025               | [HashedIn by Deloitte](#)       |     	Software Engineer     |  Gurgaon    |    25,000   |    8.1 LPA     |  |
+| 04-09-2025               | [HashedIn by Deloitte](#)       |     	Software Engineer     |  Gurgaon    |    25,000   |    8.1 LPA     | 1 |
 | 04-09-2025               | [Josh Technology Group](#)           | Associate Software Developer               | Gurugram          |      22,500    |      11,58,000       |  |
 | 06-09-2025               | [LTIMindtree](#)           |    Graduate Engineer Trainee   |PAN India                 |           |    4,05,233        | Ongoing |
 | 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           |     3,45,000 - 4,44,280         |  |
@@ -142,12 +142,12 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	   9.09 LPA        | Ongoing |
 | 17-10-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |      20,000        |    5,76,900         |  |
 | 27-10-2025               | [TATA POWER](#)            | SEED (Student Engagement and Experiential Development)  |    PAN India     |      20,000        | 	   6.75 LPA        | Not Visited |
-| 30-10-2025               | [IBM (Only Girls)](#)            | Associate System Engineer  |    Bangalore      |      20,000        | 	   4.5 LPA + 25,000        |  |
+| 30-10-2025               | [IBM (Only Girls)](#)            | Associate System Engineer  |    Bangalore      |      20,000        | 	   4.5 LPA + 25,000        | 1 |
 | 31-10-2025               | [Internet Research Bureau (Only Boys)](#)            | Trainee Survey Programmer   |    Noida     |       18,000        | 	   4 LPA        | 4 |
 | 31-10-2025               | [Josh Technology Group](#)           | Analyst- Outcome Based Learning              | Gurugram          |      20,000        |    9,31,000         |  |
 | 04-11-2025               | [Primathon Technology Ventures Pvt Ltd](#)            | Associate Software Developer  |    Gurugram    |      15,000        | 	   5 - 6 LPA        | Ongoing |
 | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |      15,000        | 	   4 LPA + 1 Lakh        |  |
-| 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |      30,500      | 	   5.10 LPA     |  |
+| 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |      30,500      | 	   5.10 LPA     | 3 |
 | 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |   Indore   |        20,000    | 	   5,33,400        |  |
 | 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |      20,000        |    6 LPA       |  |
 | 13-11-2025               | [Sopra Steria India](#)           | Engineer Trainee            | Noida, Chennai, Bangalore          |          |    6 LPA       |  |
@@ -164,7 +164,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 25-11-2025               | [Hecta](#)       |                | Noida       |    12,000        |    4 LPA     | Not Visited |
 | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | |    3.5 - 4.5 LPA     |  |
 | 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | |    4.71 LPA     |  |
-| 01-12-2025               | [Nucleus Software](#)       | Assistant Software Engineer               | Noida         |    30,000        |    5,08,658        |  |
+| 01-12-2025               | [Nucleus Software](#)       | Assistant Software Engineer               | Noida         |    30,000        |    5,08,658        | 5 |
 | 10-12-2025               | [HummingBird Technologies](#)       |     Java Backend Developer          | Pune|     30,000 |    9 LPA     | Not Visited |
 | 11-12-2025               | [Ingenuity Gaming](#)       |     	Trainee - Developer      | Noida       |    15,000 |    5 LPA     | Not Visited |
 | 12-12-2025               | [SYMB Technologies](#)       |     	Quality Assurance (QA)     | Noida       |    30,000 |    3.5 LPA     | Not Visited |
