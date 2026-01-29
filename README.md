@@ -134,7 +134,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 29-09-2025               | [Webkul](#)            | Trainee Software Analyst - Python   | Noida           |      23,500          | 	   4.2 LPA        | 20 |
 | 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |      20,000          | 	    6 LPA     |  |
 | 09-10-2025               | [Razorpay](#)             | PSE             | Bangalore          |      50,000        |    8 LPA       | 4 |
-| 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |      21,500          | 	   5 LPA + 1 Lakh       |  |
+| 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |      21,500          | 	   5 LPA + 1 Lakh       | 2 |
 | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |      40,000          | 	   10 LPA        | Not Visited |
 | 14-10-2025               | [Namma Yatri](#)            | Quality Engineer (QA)   |    Bengaluru     |      30,000          | 	   9 LPA        | Not Visited |
 | 14-10-2025               | [TCS](#)            | Ninja   |    PAN India     |           | 	   3.46 LPA        | Ongoing |
