@@ -159,7 +159,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 19-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |      40,000        | 	   10.12 LPA        | 2 |
 | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          |    30,000        |    11 LPA     | Not Visited |
 | 20-11-2025               | [Ishan Technologies](#)       |                |      PAN India    |      |      | Not Visited | Not Visited |
-| 24-11-2025               | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |    15,500 |    4.6 LPA     |  |
+| 24-11-2025               | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |    15,500 |    4.6 LPA     | 33 |
 | 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          |    25000        |    4.9 LPA     |   |
 | 25-11-2025               | [Hecta](#)       |                | Noida       |    12,000        |    4 LPA     | Not Visited |
 | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | |    3.5 - 4.5 LPA     |  |
