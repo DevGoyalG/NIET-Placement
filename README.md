@@ -149,7 +149,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |      15,000        | 	   4 LPA + 1 Lakh        |  |
 | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |      30,500      | 	   5.10 LPA     | 3 |
 | 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |   Indore   |        20,000    | 	   5,33,400        |  |
-| 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |      20,000        |    6 LPA       |  |
+| 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |      20,000        |    6 LPA       | 2 |
 | 13-11-2025               | [Sopra Steria India](#)           | Engineer Trainee            | Noida, Chennai, Bangalore          |          |    6 LPA       |  |
 | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |      20,000        |    6 LPA + 50,000       | Not Visited |
 | 14-11-2025               | [myNachiketa](#)           | AI Engineer             | New Delhi          |      20,000        |    6.5 LPA + 50,000     | Not Visited |
