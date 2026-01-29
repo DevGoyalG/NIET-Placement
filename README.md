@@ -148,12 +148,12 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 04-11-2025               | [Primathon Technology Ventures Pvt Ltd](#)            | Associate Software Developer  |    Gurugram    |      15,000        | 	   5 - 6 LPA        | Ongoing |
 | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |      15,000        | 	   4 LPA + 1 Lakh        |  |
 | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |      30,500      | 	   5.10 LPA     | 3 |
-| 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |   Indore   |        20,000    | 	   5,33,400        |  |
+| 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |   Indore   |        20,000    | 	   5,33,400        | 2 |
 | 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |      20,000        |    6 LPA       | 2 |
 | 13-11-2025               | [Sopra Steria India](#)           | Engineer Trainee            | Noida, Chennai, Bangalore          |          |    6 LPA       |  |
 | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |      20,000        |    6 LPA + 50,000       | Not Visited |
 | 14-11-2025               | [myNachiketa](#)           | AI Engineer             | New Delhi          |      20,000        |    6.5 LPA + 50,000     | Not Visited |
-| 14-11-2025               | [Cloud Analogy](#)           | Trainee           | Mohali, Noida, Gurugram          |      17,288        |    3.5 LPA      |  |
+| 14-11-2025               | [Cloud Analogy](#)           | Trainee           | Mohali, Noida, Gurugram          |      17,288        |    3.5 LPA      | 12 |
 | 18-11-2025               | [GoDaddy](#)            |  Software Development Engineer |    Remote     |      50,000        | 	   44 LPA        | 4 |
 | 19-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |      40,000        | 	   10.12 LPA        | 2 |
 | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          |    30,000        |    11 LPA     | Round 1 result not declared |
