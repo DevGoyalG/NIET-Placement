@@ -33,7 +33,7 @@ This repository includes:
 - 💰 Internship stipend (if applicable)  
 - 📦 Final offered package (CTC)
 
-> ⚠️ **Note:** This repository covers on-campus placement drives conducted for **B.Tech and M.Tech students only**.
+> ⚠️ **Note:** This repository covers on-campus placement drives conducted for **B.Tech, M.Tech Integrated and MCA students only**.
 
 ---
 
@@ -113,7 +113,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 03-09-2025               | [Bangmetric](#)       | Tech Intern             | Noida    |    10,000 - 20,000          |    3.5 - 6 LPA       | 9 |
 | 04-09-2025               | [HashedIn by Deloitte](#)       |     	Software Engineer     |  Gurgaon    |    25,000   |    8.1 LPA     | 1 |
 | 04-09-2025               | [Josh Technology Group](#)           | Associate Software Developer               | Gurugram          |      22,500    |      11,58,000       |  |
-| 06-09-2025               | [LTIMindtree](#)           |    Graduate Engineer Trainee   |PAN India                 |           |    4,05,233        | Ongoing |
+| 06-09-2025               | [LTIMindtree](#)           |    Graduate Engineer Trainee   |PAN India                 |           |    4,05,233        | 185 + Ongoing |
 | 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           |     3,45,000 - 4,44,280         |  |
 | 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           |     4,90,000 - 6,28,140      |  |
 | 11-09-2025               | [Accenture](#)           |   Advanced Application Engineer    |PAN India                 |           |     |  |
