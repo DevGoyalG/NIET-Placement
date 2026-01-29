@@ -81,13 +81,13 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 03-07-2025               | [Consat Orahi](#)             | AI            | Gurugram    |    15,000          | upto    5 LPA       | 0 |
 | 03-07-2025               | [Consat Orahi](#)             | UI/UX Intern            | Gurugram    |    15,000         | upto    4.2 LPA       | 0 |
 | 12-07-2025               | [DotPe](#)         |                 | Gurgaon      |    20,000      | upto    5 LPA       |  Not Visited |
-| 28-07-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        |  |
+| 28-07-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        | 0 |
 | 01-08-2025               | [Razorpay](#)             | PSE             | Bangalore          |      50,000        |    8 LPA       | 4 |
 | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           |    4 LPA       | 170 |
 | 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           |    5.40 LPA       | combined 23  |
 | 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           |    6.75 LPA       | combined 23 |
 | 12-08-2025               | [MAQ Software](#)          | Associate Software Engineer            | Noida             |  25,000          |     6 LPA       | 15 |
-| 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        |  |
+| 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        | 4 |
 | 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               |    15,000          |    4 - 5 LPA        | Ongoing |
 | 18-08-2025               | [Xcelore](#)        | JVM Engineer – Trainee              | Noida              |    15,000          |    4 - 5 LPA        | Ongoing |
 | 18-08-2025               | [Xcelore](#)        | JavaScript/UI Engineer – Trainee              |Noida  |    15,000          |    4 - 5 LPA        | Ongoing |
