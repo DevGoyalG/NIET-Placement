@@ -137,8 +137,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |      21,500          | 	   5 LPA + 1 Lakh       | 2 |
 | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |      40,000          | 	   10 LPA        | Not Visited |
 | 14-10-2025               | [Namma Yatri](#)            | Quality Engineer (QA)   |    Bengaluru     |      30,000          | 	   9 LPA        | Not Visited |
-| 14-10-2025               | [TCS](#)            | Ninja   |    PAN India     |           | 	   3.46 LPA        | Ongoing |
-| 14-10-2025               | [TCS](#)            | Digital  |    PAN India     |           | 	   7.09 LPA        | Ongoing |
+| 14-10-2025               | [TCS](#)            | Ninja   |    PAN India     |           | 	   3.46 LPA        | 109 + Ongoing |
+| 14-10-2025               | [TCS](#)            | Digital  |    PAN India     |           | 	   7.09 LPA        | 14 + Ongoing |
 | 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	   9.09 LPA        | Ongoing |
 | 17-10-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |      20,000        |    5,76,900         |  |
 | 27-10-2025               | [TATA POWER](#)            | SEED (Student Engagement and Experiential Development)  |    PAN India     |      20,000        | 	   6.75 LPA        | Not Visited |
@@ -154,13 +154,12 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |      20,000        |    6 LPA + 50,000       | Not Visited |
 | 14-11-2025               | [myNachiketa](#)           | AI Engineer             | New Delhi          |      20,000        |    6.5 LPA + 50,000     | Not Visited |
 | 14-11-2025               | [Cloud Analogy](#)           | Trainee           | Mohali, Noida, Gurugram          |      17,288        |    3.5 LPA      |  |
-| 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |      15,000        | 	   4 LPA + 1 Lakh        |  |
 | 18-11-2025               | [GoDaddy](#)            |  Software Development Engineer |    Remote     |      50,000        | 	   44 LPA        | 4 |
 | 19-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |      40,000        | 	   10.12 LPA        | 2 |
 | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          |    30,000        |    11 LPA     | Not Visited |
 | 20-11-2025               | [Ishan Technologies](#)       |                |      PAN India    |      |      | Not Visited | Not Visited |
 | 24-11-2025               | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |    15,500 |    4.6 LPA     | 33 |
-| 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          |    25000        |    4.9 LPA     |   |
+| 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          |    25,000        |    4.9 LPA     |   |
 | 25-11-2025               | [Hecta](#)       |                | Noida       |    12,000        |    4 LPA     | Not Visited |
 | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | |    3.5 - 4.5 LPA     |  |
 | 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | |    4.71 LPA     |  |
