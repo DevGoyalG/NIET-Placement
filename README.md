@@ -159,10 +159,10 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          |    30,000        |    11 LPA     | Round 1 result not declared |
 | 20-11-2025               | [Ishan Technologies](#)       |                |      PAN India    |      |      | Not Visited | Not Visited |
 | 24-11-2025               | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |    15,500 |    4.6 LPA     | 33 |
-| 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          |    25,000        |    4.9 LPA     |   |
+| 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          |    25,000        |    4.9 LPA     | 11 |
 | 25-11-2025               | [Hecta](#)       |                | Noida       |    12,000        |    4 LPA     | Not Visited |
 | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | |    3.5 - 4.5 LPA     |  |
-| 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | |    4.71 LPA     |  |
+| 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | |    4.71 LPA     | 7 |
 | 01-12-2025               | [Nucleus Software](#)       | Assistant Software Engineer               | Noida         |    30,000        |    5,08,658        | 5 |
 | 10-12-2025               | [HummingBird Technologies](#)       |     Java Backend Developer          | Pune|     30,000 |    9 LPA     | Not Visited |
 | 11-12-2025               | [Ingenuity Gaming](#)       |     	Trainee - Developer      | Noida       |    15,000 |    5 LPA     | Not Visited |
