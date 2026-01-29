@@ -70,7 +70,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 28-05-2025               | [Coforge](#)            |              | PAN India             |            |    4 LPA + 25,000       | 35 |
 | 31-05-2025               | [DeltaX](#)            | Associate Product Engineer   | Bangalore, Hyderabad, Pune           |             |    7 LPA       | 2 |
 | 02-06-2025               | [Allsoft Solutions And Services Pvt Ltd](#)         | Trainee Software Engineer - Research and Development   | Noida, Chandigarh      |    20,000    |    7 LPA  | Not Visited |
-| 12-06-2025               | [Meritto](#)       |     	Operational      | Gurugram      | 15,000 |     4 LPA    | 15 - 20 (But all students left company) |
+| 12-06-2025               | [Meritto](#)       |     	Operational      | Gurugram      | 15,000 |     4 LPA    | 15 - 20 (But many students left company) |
 | 19-06-2025               | [EZ Lab Private Limited](#)          | Backend Developer Intern           | Gurugram      |    15,000 - 18,000           | upto    5 LPA       |  |
 | 19-06-2025               | [EZ Lab Private Limited](#)          | Data Science Intern           | Gurugram      |    15,000 - 18,000          | upto    5 LPA       |  |
 | 02-07-2025               | [Argusoft](#)           | Programmer Analyst            | Gujarat             |    21,000         |    7.12 LPA       | |
