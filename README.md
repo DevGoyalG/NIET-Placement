@@ -114,9 +114,9 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 04-09-2025               | [HashedIn by Deloitte](#)       |     	Software Engineer     |  Gurgaon    |    25,000   |    8.1 LPA     | 1 |
 | 04-09-2025               | [Josh Technology Group](#)           | Associate Software Developer               | Gurugram          |      22,500    |      11,58,000       |  |
 | 06-09-2025               | [LTIMindtree](#)           |    Graduate Engineer Trainee   |PAN India                 |           |    4,05,233        | 185 + Ongoing |
-| 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           |     3,45,000 - 4,44,280         |  |
-| 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           |     4,90,000 - 6,28,140      |  |
-| 11-09-2025               | [Accenture](#)           |   Advanced Application Engineer    |PAN India                 |           |     |  |
+| 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           |     3,45,000 - 4,44,280         | Ongoing |
+| 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           |     4,90,000 - 6,28,140      | Ongoing |
+| 11-09-2025               | [Accenture](#)           |   Advanced Application Engineer    |PAN India                 |           |     | Ongoing |
 | 20-09-2025               | [DeltaX](#)            | Product Analyst   | Bangalore           |             | 	   10 Lakhs over 2 years       |  Not Visited |
 | 20-09-2025               | [DeltaX](#)            | Digital Marketing Champion   | Pune           |             | 	   10 Lakhs over 2 years       | Not Visited |
 | 20-09-2025               | [DeltaX](#)            | Business Operations Analyst   | Bangalore, Pune           |             | 	   10 Lakhs over 2 years       | Not Visited |
