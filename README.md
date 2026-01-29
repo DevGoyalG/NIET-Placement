@@ -67,7 +67,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 23-04-2025               | [Josh Technology Group](#)           | Software Developer               | Gurugram          |      22,500    |      15,23,200       |  |
 | 23-04-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |      20,000        |    6,03,600         |  |
 | 23-04-2025               | [Josh Technology Group](#)           | Front End Developer               | Gurugram          |      22,500       |    12,93,300         |  |
-| 28-05-2025               | [Coforge](#)            |              | PAN India             |            |    4 LPA + 25,000       |  |
+| 28-05-2025               | [Coforge](#)            |              | PAN India             |            |    4 LPA + 25,000       | 35 |
 | 31-05-2025               | [DeltaX](#)            | Associate Product Engineer   | Bangalore, Hyderabad, Pune           |             |    7 LPA       | 2 |
 | 02-06-2025               | [Allsoft Solutions And Services Pvt Ltd](#)         | Trainee Software Engineer - Research and Development   | Noida, Chandigarh      |    20,000    |    7 LPA  | Not Visited |
 | 12-06-2025               | [Meritto](#)       |     	Operational      | Gurugram      | 15,000 |     4 LPA    | 15 - 20 (But all students left company) |
