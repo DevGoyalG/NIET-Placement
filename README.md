@@ -84,8 +84,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 28-07-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        |  |
 | 01-08-2025               | [Razorpay](#)             | PSE             | Bangalore          |      50,000        |    8 LPA       | 4 |
 | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           |    4 LPA       | 170 |
-| 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           |    5.40 LPA       |  |
-| 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           |    6.75 LPA       |  |
+| 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           |    5.40 LPA       | combined 23  |
+| 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           |    6.75 LPA       | combined 23 |
 | 12-08-2025               | [MAQ Software](#)          | Associate Software Engineer            | Noida             |  25,000          |     6 LPA       | 15 |
 | 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        |  |
 | 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               |    15,000          |    4 - 5 LPA        | Ongoing |
