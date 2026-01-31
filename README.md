@@ -164,6 +164,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | |    3.5 - 4.5 LPA     | 1 |
 | 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | |    4.71 LPA     | 10 |
 | 01-12-2025               | [Nucleus Software](#)       | Assistant Software Engineer               | Noida         |    30,000        |    5,08,658        | 5 |
+|                | [Sasken Technologies](#)       |               |          |         |          | |
 | 10-12-2025               | [HummingBird Technologies](#)       |     Java Backend Developer          | Pune|     30,000 |    9 LPA     | Ongoing |
 | 11-12-2025               | [Ingenuity Gaming](#)       |     	Trainee - Developer      | Noida       |    15,000 |    5 LPA     | Not Visited |
 | 12-12-2025               | [SYMB Technologies](#)       |     	Quality Assurance (QA)     | Noida       |    30,000 |    3.5 LPA     | Not Visited |
