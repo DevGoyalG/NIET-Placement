@@ -150,7 +150,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 30-10-2025               | [IBM (Only Girls)](#)            | Associate System Engineer  |    Bangalore      |      20,000        | 	   4.5 LPA + 25,000        | 1 |
 | 31-10-2025               | [Internet Research Bureau (Only Boys)](#)            | Trainee Survey Programmer   |    Noida     |       18,000        | 	   4 LPA        | 4 |
 | 31-10-2025               | [Josh Technology Group](#)           | Analyst- Outcome Based Learning              | Gurugram          |      20,000        |    9,31,000         |  |
-| 04-11-2025               | [Primathon Technology Ventures Pvt Ltd](#)            | Associate Software Developer  |    Gurugram    |      15,000        | 	   5 - 6 LPA        | Ongoing |
+| 04-11-2025               | [Primathon Technology Ventures Pvt Ltd](#)            | Associate Software Developer  |    Gurugram    |      15,000        | 	   5 - 6 LPA        | 3 |
 | 06-11-2025               | [AppVin Technology](#)            |  Software Developer Trainee |    Noida     |      15,000        | 	   4 LPA + 1 Lakh        |  |
 | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |      30,500      | 	   5.10 LPA     | 3 |
 | 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |   Indore   |        20,000    | 	   5,33,400        | 2 |
