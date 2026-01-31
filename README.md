@@ -91,7 +91,6 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           |    4 LPA       | 170 |
 | 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           |    5.40 LPA       | 23 (Combined)  |
 | 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           |    6.75 LPA       | 23 (Combined) |
-| 12-08-2025               | [MAQ Software](#)          | Associate Software Engineer            | Noida             |  25,000          |     6 LPA       | 15 |
 | 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        | 4 |
 | 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               |    15,000          |    4 - 5 LPA        | Ongoing |
 | 18-08-2025               | [Xcelore](#)        | JVM Engineer – Trainee              | Noida              |    15,000          |    4 - 5 LPA        | Ongoing |
@@ -146,6 +145,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 14-10-2025               | [TCS](#)            | Digital  |    PAN India     |           | 	   7.09 LPA        | 14 + Ongoing |
 | 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	   9.09 LPA        | Ongoing |
 | 17-10-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |      20,000        |    5,76,900         |  |
+| 19-10-2025               | [MAQ Software](#)          | Associate Software Engineer            | Noida             |  25,000          |     6 LPA       | 15 |
 | 27-10-2025               | [TATA POWER](#)            | SEED (Student Engagement and Experiential Development)  |    PAN India     |      20,000        | 	   6.75 LPA        | Not Visited |
 | 30-10-2025               | [IBM (Only Girls)](#)            | Associate System Engineer  |    Bangalore      |      20,000        | 	   4.5 LPA + 25,000        | 1 |
 | 31-10-2025               | [Internet Research Bureau (Only Boys)](#)            | Trainee Survey Programmer   |    Noida     |       18,000        | 	   4 LPA        | 4 |
