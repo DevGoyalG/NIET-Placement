@@ -84,8 +84,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 28-07-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        | 0 |
 | 01-08-2025               | [Razorpay](#)             | PSE             | Bangalore          |      50,000        |    8 LPA       | 4 |
 | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           |    4 LPA       | 170 |
-| 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           |    5.40 LPA       | combined 23  |
-| 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           |    6.75 LPA       | combined 23 |
+| 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           |    5.40 LPA       | 23 (Combined)  |
+| 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           |    6.75 LPA       | 23 (Combined) |
 | 12-08-2025               | [MAQ Software](#)          | Associate Software Engineer            | Noida             |  25,000          |     6 LPA       | 15 |
 | 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        | 4 |
 | 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               |    15,000          |    4 - 5 LPA        | Ongoing |
@@ -114,8 +114,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 04-09-2025               | [HashedIn by Deloitte](#)       |     	Software Engineer     |  Gurgaon    |    25,000   |    8.1 LPA     | 1 |
 | 04-09-2025               | [Josh Technology Group](#)           | Associate Software Developer               | Gurugram          |      22,500    |      11,58,000       | 1 |
 | 06-09-2025               | [LTIMindtree](#)           |    Graduate Engineer Trainee   |PAN India                 |           |    4,05,233        | 185 + Ongoing |
-| 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           |     3,45,000 - 4,44,280         | combined 150 |
-| 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           |     4,90,000 - 6,28,140      | combined 150 |
+| 11-09-2025               | [Accenture](#)           |   Associate Software Engineer    |PAN India                 |           |     3,45,000 - 4,44,280         | 150 (Combined) |
+| 11-09-2025               | [Accenture](#)           |    Advanced Associate Software Engineer   |PAN India                 |           |     4,90,000 - 6,28,140      | 150 (Combined) |
 | 11-09-2025               | [Accenture](#)           |   Advanced Application Engineer    |PAN India                 |           |     | 0 |
 | 20-09-2025               | [DeltaX](#)            | Product Analyst   | Bangalore           |             | 	   10 Lakhs over 2 years       |  Not Visited |
 | 20-09-2025               | [DeltaX](#)            | Digital Marketing Champion   | Pune           |             | 	   10 Lakhs over 2 years       | Not Visited |
