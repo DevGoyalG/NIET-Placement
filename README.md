@@ -177,7 +177,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 01-01-2026               | [Virtuous Digital Ltd](#)       |     	Solution Engineer Associate)     | Gurgaon       |  |    5 - 6.5 LPA     | Not Visited |
 | 03-01-2025               | [Ethara AI (Only 1 Month Intern)](#)       |     	AI Enginner      | Gurugram      |    30,000 |      |  |
 | 06-01-2026               | [Appinventiv Technologies Pvt Ltd](#)       |     	Software Trainee     | Noida       |  |    3.6 - 4.2 LPA     | Not Visited |
-| 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  |    5 LPA     | Ongoing |
+| 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  |    5 LPA     | 2 |
 | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  |    3 - 5 LPA     | Not Visited |
 | 27-01-2026               | [Floatingpoint AI](#)       |     	QA Specialist – Data Annotation     | Gurugram      |  |    7.5 LPA     | Not Visited |
 | 27-01-2025               | [Josh Technology Group](#)           | Inside Sales Strategist              | Gurugram          |      18,000        |    3.75 LPA      | Not Visited |
