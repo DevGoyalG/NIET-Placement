@@ -80,6 +80,11 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 03-07-2025               | [Consat Orahi](#)             | Operations            | Gurugram    |    15,000        | upto    4.2 LPA       | 0 |
 | 03-07-2025               | [Consat Orahi](#)             | AI            | Gurugram    |    15,000          | upto    5 LPA       | 0 |
 | 03-07-2025               | [Consat Orahi](#)             | UI/UX Intern            | Gurugram    |    15,000         | upto    4.2 LPA       | 0 |
+| 09-07-2025               | [OneBanc](#)             | Android Developer            | Gurugram    |    30,000         | 8 LPA       | 0 |
+| 09-07-2025               | [OneBanc](#)             | iOS Developer            | Gurugram    |    30,000         | 8 LPA       | 0 |
+| 09-07-2025               | [OneBanc](#)             | Full Stack Developer            | Gurugram    |    30,000         | 8 LPA       | 0 |
+| 09-07-2025               | [OneBanc](#)             | UI/UX Designer            | Gurugram    |    30,000         | 8 LPA       | 0 |
+| 09-07-2025               | [OneBanc](#)             | Data Science            | Gurugram    |    30,000         | 8 LPA       | 0 |
 | 12-07-2025               | [DotPe](#)         |                 | Gurgaon      |    20,000      | upto    5 LPA       |  Not Visited |
 | 28-07-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        | 0 |
 | 01-08-2025               | [Razorpay](#)             | PSE             | Bangalore          |      50,000        |    8 LPA       | 4 |
