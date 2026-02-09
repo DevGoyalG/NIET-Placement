@@ -37,7 +37,7 @@ This repository includes:
 
 ---
 
-## 📊 Placement Statistics (Till 27-01-2026)
+## 📊 Placement Statistics (Till 09-02-2026)
 
 - **Number of Company Notifications Issued:** 68
 <!--   
