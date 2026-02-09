@@ -174,13 +174,19 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 11-12-2025               | [Ingenuity Gaming](#)       |     	Trainee - Developer      | Noida       |    15,000 |    5 LPA     | Not Visited |
 | 12-12-2025               | [SYMB Technologies](#)       |     	Quality Assurance (QA)     | Noida       |    30,000 |    3.5 LPA     | Not Visited |
 | 12-12-2025               | [SYMB Technologies](#)       |     	Business Analyst (BA)      | Noida       |    30,000 |    3.5 LPA     | Not Visited |
-| 01-01-2026               | [Virtuous Digital Ltd](#)       |     	Solution Engineer Associate)     | Gurgaon       |  |    5 - 6.5 LPA     | Not Visited |
+| 01-01-2026               | [Virtuous Digital Ltd](#)       |     	Solution Engineer Associate     | Gurgaon       |  |    5 - 6.5 LPA     | Not Visited |
 | 03-01-2025               | [Ethara AI (Only 1 Month Intern)](#)       |     	AI Enginner      | Gurugram      |    30,000 |      |  |
 | 06-01-2026               | [Appinventiv Technologies Pvt Ltd](#)       |     	Software Trainee     | Noida       |  |    3.6 - 4.2 LPA     | Not Visited |
 | 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  |    5 LPA     | 2 |
 | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  |    3 - 5 LPA     | Not Visited |
 | 27-01-2026               | [Floatingpoint AI](#)       |     	QA Specialist – Data Annotation     | Gurugram      |  |    7.5 LPA     | Not Visited |
 | 27-01-2025               | [Josh Technology Group](#)           | Inside Sales Strategist              | Gurugram          |      18,000        |    3.75 LPA      | Not Visited |
+| 31-01-2026               | [iqigai.ai by Fractal Analytics](#)       |     	Data Engineering    | PAN India      |  |    5 - 6 LPA     | Not Visited |
+| 04-02-2025               | [Sopra Steria India](#)       |     	Engineer Trainee    |  Noida, Chennai, Bangalore    |     |   6 LPA   | Not Visited |
+| 04-02-2025               | [Far Eye](#)       |     	Software Development Engineer (SDE- 1) Intern   |  Noida   |    22,000 - 25,000 |   6 - 7 LPA   | Not Visited |
+| 04-02-2025               | [Wipro](#)       |     	AI- AIML & DS COE Skilling   | PAN India   |     |   4.5 LPA   | Not Visited |
+| 07-02-2025               | [Qikfox Inc](#)       |     	IT Sales   | Noida   |  25,000   |   6 LPA   | Not Visited |
+| 07-02-2025               | [Real Time Data Services (RTDS)](#)       |     Cloud Sales  | Noida, Gurugram  |   20,000  |   6 LPA   | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
 
 ---
