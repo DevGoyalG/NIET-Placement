@@ -187,6 +187,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 04-02-2026               | [Wipro](#)       |     	AI- AIML & DS COE Skilling   | PAN India   |     |   4.5 LPA   | Not Visited |
 | 07-02-2026               | [Qikfox Inc](#)       |     	IT Sales   | Noida   |  25,000   |   6 LPA   | Not Visited |
 | 07-02-2026               | [Real Time Data Services (RTDS)](#)       |     Cloud Sales  | Noida, Gurugram  |   20,000  |   6 LPA   | Not Visited |
+| 10-02-2026               | [Round the Clock Technologies](#)       |     DevOps  | Noida |   20,000  |   3.5 - 5.5 LPA   | Not Visited |
+| 10-02-2026               | [Infogain](#)       |     Associate Software Engineer  | Noida  |  10,000 - 20,000  |   4.34 LPA   | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
 
 ---
