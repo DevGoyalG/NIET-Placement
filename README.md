@@ -189,6 +189,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-02-2026               | [Real Time Data Services (RTDS)](#)       |     Cloud Sales  | Noida, Gurugram  |   20,000  |   6 LPA   | Not Visited |
 | 10-02-2026               | [Round the Clock Technologies](#)       |     DevOps  | Noida |   20,000  |   3.5 - 5.5 LPA   | Not Visited |
 | 10-02-2026               | [Infogain](#)       |     Associate Software Engineer  | Noida  |  10,000 - 20,000  |   4.34 LPA   | Ongoing |
+| 11-02-2026               | [NEC Corporation India Private Limited](#)       |     Software Engineer - Apprentice  | Noida (Hybrid as per company policy)  |  12,300  |     | Not Visited |
+| 11-02-2026               | [Optimus Information Inc. (Only Girls)](#)       |     Software Engineer Trainee  | Noida  |  15,000 - 20,000  |   6 LPA   | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
 
 ---
