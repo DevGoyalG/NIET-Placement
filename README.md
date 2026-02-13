@@ -181,7 +181,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  |    3 - 5 LPA     | Not Visited |
 | 27-01-2026               | [Floatingpoint AI](#)       |     	QA Specialist – Data Annotation     | Gurugram      |  |    7.5 LPA     | Not Visited |
 | 27-01-2026               | [Josh Technology Group](#)           | Inside Sales Strategist              | Gurugram          |      18,000        |    3.75 LPA      | Not Visited |
-| 31-01-2026               | [iqigai.ai by Fractal Analytics](#)       |     	Data Engineering    | PAN India      |  |    5 - 6 LPA     | Not Visited |
+| 31-01-2026               | [iqigai.ai by Fractal Analytics](#)       |     	Data Engineering    | PAN India      |  |    5 - 6 LPA     | Ongoing |
 | 04-02-2026               | [Sopra Steria India](#)       |     	Engineer Trainee    |  Noida, Chennai, Bangalore    |     |   6 LPA   | Not Visited |
 | 04-02-2026               | [Far Eye](#)       |     	Software Development Engineer Intern   |  Noida   |    22,000 - 25,000 |   6 - 7 LPA   | Ongoing |
 | 04-02-2026               | [Wipro](#)       |     	AI, AIML & DS - COE Skilling   | PAN India   |     |   4.5 LPA   | Training Ongoing |
