@@ -37,11 +37,11 @@ This repository includes:
 
 ---
 
-## 📊 Placement Statistics (Till 09-02-2026)
+## 📊 Placement Statistics (Till 14-02-2026)
 
-- **Number of Company Notifications Issued:** 83
-<!--   
+- **Number of Company Notifications Issued:** 83 
 - **Number of Companies Visited:**
+<!--  
 - **Total Offers Made:**   
 - **Total Students Placed:**   
 - **Placement Percentage:** XX%  
@@ -62,7 +62,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 21-02-2025               | [Vivnovation](#)      | Vivnovator                | PAN India               |    15,000           |    20 LPA       | 2 |
 | 23-04-2025               | [Juspay Technologies](#) | SDE          | Bangalore             |    40,000                   |    27 LPA       | 3 |
 | 23-04-2025               | [Juspay Technologies](#)   | PE               | Bangalore    |    40,000            |    21 LPA       | 4 |
-| 23-04-2025               | [Juspay Technologies](#)         | Product Design               | Bangalore       |    40,000           |    19 LPA       |  |
+| 23-04-2025               | [Juspay Technologies](#)         | Product Design               | Bangalore       |    40,000           |    19 LPA       | 0 |
 | 23-04-2025               | [Juspay Technologies](#)       | PSE               | Bangalore          |    30,000        |    11 LPA     | 4 |
 | 23-04-2025               | [Josh Technology Group](#)           | Software Developer               | Gurugram          |      22,500    |      15,23,200       | 1 |
 | 23-04-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |      20,000        |    6,03,600         | 1 |
@@ -161,7 +161,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 14-11-2025               | [Cloud Analogy](#)           | Trainee           | Mohali, Noida, Gurugram          |      17,288        |    3.5 LPA      | 12 |
 | 18-11-2025               | [GoDaddy](#)            |  Software Development Engineer |    Remote     |      50,000        | 	   44 LPA        | 4 |
 | 19-11-2025               | [GoDaddy](#)            |  Data Analyst Intern |    Remote     |      40,000        | 	   10.12 LPA        | 2 |
-| 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          |    30,000        |    11 LPA     | Ongoing |
+| 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          |    30,000        |    11 LPA     | 3 |
 | 20-11-2025               | [Ishan Technologies](#)       |                |      PAN India    |      |      | Not Visited | Not Visited |
 | 24-11-2025               | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |    15,500 |    4.6 LPA     | 33 |
 | 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          |    25,000        |    4.9 LPA     | 11 |
