@@ -39,7 +39,7 @@ This repository includes:
 
 ## 📊 Placement Statistics (Till 09-02-2026)
 
-- **Number of Company Notifications Issued:** 68
+- **Number of Company Notifications Issued:** 83
 <!--   
 - **Number of Companies Visited:**
 - **Total Offers Made:**   
