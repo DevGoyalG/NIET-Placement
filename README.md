@@ -48,7 +48,7 @@ This repository includes:
 - **Placement Percentage:** XX%  
 -->
 - **Highest Package Offered:** INR 44 LPA  
-- **Lowest Package Offered:** INR 3.5 LPA  
+- **Lowest Package Offered:** INR 3 LPA  
 
 - **Highest Internship Stipend:** INR 50,000 / Month  
 - **Lowest Internship Stipend:** INR 8,000 / Month  
