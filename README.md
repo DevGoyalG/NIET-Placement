@@ -137,7 +137,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 27-09-2025               | [Pramaanit Technologies](#)            | Backend Developer | Remote         |         8,000 - 10,000       | 	   4.5 - 6 LPA        | Not Visited |
 | 27-09-2025               | [Think41](#)            | Full Stack Engineer   | 	Bengaluru, Karnataka           |      25,000          | 	   5.5 - 7 LPA        | 0 |
 | 29-09-2025               | [Webkul](#)            | Trainee Software Analyst - Python   | Noida           |      23,500          | 	   4.2 LPA        | 20 |
-| 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |      20,000          | 	    6 LPA     | Ongoing |
+| 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |      20,000          | 	    6 LPA     | 4 |
 | 09-10-2025               | [Razorpay](#)             | PSE             | Bangalore          |      50,000        |    8 LPA       | 4 |
 | 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |      21,500          | 	   5 LPA + 1 Lakh       | 2 |
 | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |      40,000          | 	   10 LPA        | Not Visited |
