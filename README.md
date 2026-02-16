@@ -197,6 +197,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     Embedded Firmware and Electronic Hardware Development  | Greater Noida  | 18,000 |   4.8 LPA   | Not Visited |
 | 14-02-2026               | [MyAnatomy](#)       |     Techno-Sales Intern  |  Noida  | 20,000 | 4 - 6 LPA   | Not Visited |
 | 14-02-2026               | [AMITY Software Limited](#)       |    Associate Software Developer  | Noida  |  | 6 LPA   | Not Visited |
+| 16-02-2026               | [Mega Impacts](#)       |    AI Engineer  | Noida  | 10,000  | 4 LPA   | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
 
 ---
