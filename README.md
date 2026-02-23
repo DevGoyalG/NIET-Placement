@@ -72,8 +72,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 31-05-2025               | [DeltaX](#)            | Associate Product Engineer   | Bangalore, Hyderabad, Pune           |             |    7 LPA       | 4 |
 | 02-06-2025               | [Allsoft Solutions And Services Pvt Ltd](#)         | Trainee Software Engineer - Research and Development   | Noida, Chandigarh      |    20,000    |    7 LPA  | Not Visited |
 | 12-06-2025               | [Meritto](#)       |     	Operational      | Gurugram      | 15,000 |     4 LPA    | 15 - 20 (But many students left company) |
-| 19-06-2025               | [EZ Works](#)          | Backend Developer Intern           | Gurugram      |    15,000 - 18,000           | upto    5 LPA       |  |
-| 19-06-2025               | [EZ Works](#)          | Data Science Intern           | Gurugram      |    15,000 - 18,000          | upto    5 LPA       |  |
+| 19-06-2025               | [EZ Lab Private Limited](#)          | Backend Developer Intern           | Gurugram      |    15,000 - 18,000           | upto    5 LPA       | 1 |
+| 19-06-2025               | [EZ Lab Private Limited](#)          | Data Science Intern           | Gurugram      |    15,000 - 18,000          | upto    5 LPA       | 1 |
 | 02-07-2025               | [Argusoft](#)           | Programmer Analyst            | Gujarat             |    21,000         |    7.12 LPA       | |
 | 03-07-2025               | [Consat Orahi](#)             | QA Intern            | Gurugram    |    15,000        | upto    4.2 LPA       | 0 |
 | 03-07-2025               | [Consat Orahi](#)             | Frontend React Intern            | Gurugram    |    15,000         | upto    4.2 LPA       | 0 |
@@ -92,7 +92,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-08-2025               | [Cognizant](#)             | GenC             | PAN India             |           |    4 LPA       | 170 |
 | 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           |    5.40 LPA       | 23 (Combined)  |
 | 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           |    6.75 LPA       | 23 (Combined) |
-| 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        | 6 |
+| 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        | 12 |
 | 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               |    15,000          |    4 - 5 LPA        | Interview Result Pending |
 | 18-08-2025               | [Xcelore](#)        | JVM Engineer – Trainee              | Noida              |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
 | 18-08-2025               | [Xcelore](#)        | JavaScript/UI Engineer – Trainee              |Noida  |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
@@ -138,7 +138,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 27-09-2025               | [Think41](#)            | Full Stack Engineer   | 	Bengaluru, Karnataka           |      25,000          | 	   5.5 - 7 LPA        | 0 |
 | 29-09-2025               | [Webkul](#)            | Trainee Software Analyst - Python   | Noida           |      23,500          | 	   4.2 LPA        | 20 |
 | 08-10-2025               | [Jakson Group](#)            | GET   | Noida           |      20,000          | 	    6 LPA     | 4 |
-| 09-10-2025               | [Razorpay](#)             | PSE             | Bangalore          |      50,000        |    8 LPA       | 4 |
+| 09-10-2025               | [Razorpay](#)             | PSE             | Bangalore          |      50,000        |    8 LPA       | 5 |
 | 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |      21,500          | 	   5 LPA + 1 Lakh       | 3 |
 | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |      40,000          | 	   10 LPA        | Not Visited |
 | 14-10-2025               | [Namma Yatri](#)            | Quality Engineer (QA)   |    Bengaluru     |      30,000          | 	   9 LPA        | Not Visited |
@@ -165,7 +165,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 20-11-2025               | [Juspay Technologies](#)       | Site Reliability Engineer               | Bangalore          |    30,000        |    11 LPA     | 3 |
 | 20-11-2025               | [Ishan Technologies](#)       |                |      PAN India    |      |      | Not Visited | Not Visited |
 | 24-11-2025               | [Wissen Infotech Pvt Ltd](#)       |     	Software Engineer      | Bengaluru, Hyderabad      |    15,500 |    4.6 LPA     | 33 |
-| 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          |    25,000        |    4.9 LPA     | 11 |
+| 24-11-2025               | [iValue InfoSolutions Limited](#)       | Technical Trainee – Cybersecurity               | Bangalore          |    25,000        |    4.9 LPA     | 18 |
 | 25-11-2025               | [Hecta](#)       |                | Noida       |    12,000        |    4 LPA     | Not Visited |
 | 28-11-2025               | [IMARC Services Pvt. Ltd.](#)       |    Python Developer            | Noida       | |    3.5 - 4.5 LPA     | 1 |
 | 01-12-2025               | [Indus Valley Partners](#)       |     IT Engineer          | Noida       | |    4.71 LPA     | 10 |
@@ -195,7 +195,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     App Developer  | Greater Noida  | 33,333 | 4 - 6 LPA   | Not Visited |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     IoT Device Application Development Engineer   | Greater Noida  | 18,000 |   4.8 LPA   | Not Visited |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     Embedded Firmware and Electronic Hardware Development  | Greater Noida  | 18,000 |   4.8 LPA   | Not Visited |
-| 14-02-2026               | [MyAnatomy](#)       |     Techno-Sales Intern  |  Noida  | 20,000 | 4 - 6 LPA   | Not Visited |
+| 14-02-2026               | [MyAnatomy](#)       |     Techno-Sales Intern  |  Noida  | 20,000 | 4 - 6 LPA   | 1 + Ongoing |
 | 14-02-2026               | [AMITY Software Limited](#)       |    Associate Software Developer  | Noida  |  | 6 LPA   | Not Visited |
 | 16-02-2026               | [Mega Impacts](#)       |    AI Engineer  | Noida  | 10,000  | 4 LPA   | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
