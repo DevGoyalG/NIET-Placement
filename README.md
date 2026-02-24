@@ -142,9 +142,9 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 13-10-2025               | [Crowe](#)            | ERP Technical Intern  | Noida           |      21,500          | 	   5 LPA + 1 Lakh       | 3 |
 | 14-10-2025               | [Namma Yatri](#)            | Data Analyst   |     Bengaluru    |      40,000          | 	   10 LPA        | Not Visited |
 | 14-10-2025               | [Namma Yatri](#)            | Quality Engineer (QA)   |    Bengaluru     |      30,000          | 	   9 LPA        | Not Visited |
-| 14-10-2025               | [TCS](#)            | Ninja   |    PAN India     |           | 	   3.46 LPA        | 109 + Ongoing |
-| 14-10-2025               | [TCS](#)            | Digital  |    PAN India     |           | 	   7.09 LPA        | 31 + Ongoing |
-| 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	   9.09 LPA        | Ongoing |
+| 14-10-2025               | [TCS](#)            | Ninja   |    PAN India     |           | 	   3.46 LPA        | 187 (Combined) |
+| 14-10-2025               | [TCS](#)            | Digital  |    PAN India     |           | 	   7.09 LPA        | 187 (Combined) |
+| 14-10-2025               | [TCS](#)            | Prime  |    PAN India     |           | 	   9.09 LPA        | 0 |
 | 17-10-2025               | [Josh Technology Group](#)           | Software Quality Analyst               | Gurugram          |      20,000        |    5,76,900         | Not Visited |
 | 19-10-2025               | [MAQ Software](#)          | Associate Software Engineer            | Noida             |  25,000          |     6 LPA       | 15 |
 | 27-10-2025               | [TATA POWER](#)            | SEED (Student Engagement and Experiential Development)  |    PAN India     |      20,000        | 	   6.75 LPA        | Not Visited |
