@@ -191,7 +191,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 10-02-2026               | [Round the Clock Technologies](#)       |     DevOps  | Noida |   20,000  |   3.5 - 5.5 LPA   | Not Visited |
 | 10-02-2026               | [Infogain](#)       |     Associate Software Engineer  | Noida  |  10,000 - 20,000  |   4.34 LPA   | Ongoing |
 | 11-02-2026               | [NEC Corporation India Private Limited](#)       |     Software Engineer - Apprentice  | Noida (Hybrid as per company policy)  |  12,300  |     | Not Visited |
-| 11-02-2026               | [Optimus Information Inc. (Only Girls)](#)       |     Software Engineer Trainee  | Noida  |  15,000 - 20,000  |   6 LPA   | Not Visited |
+| 11-02-2026               | [Optimus Information Inc. (Only Girls)](#)       |     Software Engineer Trainee  | Noida  |  15,000 - 20,000  |   6 LPA   | Ongoing |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     App Developer  | Greater Noida  | 33,333 | 4 - 6 LPA   | Not Visited |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     IoT Device Application Development Engineer   | Greater Noida  | 18,000 |   4.8 LPA   | Not Visited |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     Embedded Firmware and Electronic Hardware Development  | Greater Noida  | 18,000 |   4.8 LPA   | Not Visited |
