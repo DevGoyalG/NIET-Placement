@@ -200,6 +200,9 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 16-02-2026               | [Mega Impacts](#)       |    AI Engineer  | Noida  | 10,000  | 4 LPA   | Not Visited |
 | 24-02-2026               | [Concurate](#)       |    In-house Content Writer (Fresher)  | Chandigarh (Remote)  | 20,000  | 4.5 - 4.8 LPA   | Not Visited |
 | 24-02-2026               | [Amadeus India Pvt. Ltd](#)       |    SDE  | Bangalore | 30,000  | 12.75 LPA   | Not Visited |
+| 25-02-2026               | [Juspay Technologies](#) | SDE - Frontend          | Bangalore             |    40,000                   |    27 LPA       | Not Visited |
+| 25-02-2026               | [Juspay Technologies](#) | SDE - Backend         | Bangalore             |    40,000                   |    27 LPA       | Not Visited |
+| 25-02-2026               | [Juspay Technologies](#)   | PE               | Bangalore    |    40,000            |    21 LPA       | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
 
 ---
