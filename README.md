@@ -37,16 +37,15 @@ This repository includes:
 
 ---
 
-## 📊 Placement Statistics (Till 14-02-2026)
+## 📊 Placement Statistics (Till 04-03-2026)
 
-- **Number of Company Notifications Issued:** 83
-- **Number of Companies Visited:** 49
+- **Number of Company Notifications Issued:** 86
+- **Number of Companies Visited:** 56
 
-<!--  
 - **Total Offers Made:**   
 - **Total Students Placed:**   
-- **Placement Percentage:** XX%  
--->
+- **Placement Percentage:**
+
 - **Highest Package Offered:** INR 44 LPA  
 - **Lowest Package Offered:** INR 3 LPA  
 
@@ -185,7 +184,6 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 31-01-2026               | [iqigai.ai by Fractal Analytics](#)       |     	Data Engineering    | PAN India      |  |    5 - 6 LPA     | Ongoing |
 | 04-02-2026               | [Sopra Steria India](#)       |     	Engineer Trainee    |  Noida, Chennai, Bangalore    |     |   6 LPA   | Not Visited |
 | 04-02-2026               | [Far Eye](#)       |     	Software Development Engineer Intern   |  Noida   |    22,000 - 25,000 |   6 - 7 LPA   | Interview Result Pending |
-| 04-02-2026               | [Wipro](#)       |     	AI, AIML & DS - COE Skilling   | PAN India   |     |   4.5 LPA   | Not Visited |
 | 07-02-2026               | [Qikfox Inc](#)       |     	IT Sales   | Noida   |  25,000   |   6 LPA   | Not Visited |
 | 07-02-2026               | [Real Time Data Services (RTDS)](#)       |     Cloud Sales  | Noida, Gurugram  |   20,000  |   6 LPA   | Not Visited |
 | 10-02-2026               | [Round the Clock Technologies](#)       |     DevOps  | Noida |   20,000  |   3.5 - 5.5 LPA   | Not Visited |
