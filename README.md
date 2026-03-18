@@ -203,6 +203,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 25-02-2026               | [Juspay Technologies](#)   | PE               | Bangalore    |    40,000            |    21 LPA       | Ongoing |
 | 05-03-2026               | [Birlasoft Limited (formerly KPIT Technologies)](#)   | Associate Engineer               | Pune, Bangalore    |    20,000            |        | Not Visited |
 | 18-03-2026               | [Qube Cinema Technologies Pvt Ltd.](#)   | Graduate Trainee Field Sales (Broadcast Solutions)               | New Delhi    |             |  5 LPA      | Not Visited |
+| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | Frontend Intern (React JS)           | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | Not Visited |
+| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | AI/ML Intern (Python)                | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
 
 ---
