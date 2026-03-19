@@ -205,6 +205,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 18-03-2026               | [Qube Cinema Technologies Pvt Ltd.](#)   | Graduate Trainee Field Sales (Broadcast Solutions)               | New Delhi    |             |  5 LPA      | Not Visited |
 | 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | Frontend Intern (React JS)           | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | Not Visited |
 | 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | AI/ML Intern (Python)                | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | Not Visited |
+| 19-03-2026               | [6Wresearch](#)   | Market Research Associate               | Delhi   |           |  3.6 LPA      | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
 
 ---
