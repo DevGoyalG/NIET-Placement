@@ -92,16 +92,16 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-08-2025               | [Cognizant](#)             | GenC Pro            | PAN India             |           |    5.40 LPA       | 23 (Combined)  |
 | 07-08-2025               | [Cognizant](#)             | GenC Next             | PAN India             |           |    6.75 LPA       | 23 (Combined) |
 | 13-08-2025               | [CVENT](#)          | Associate Product Consultant               |     |    25,000           |    6 LPA        | 12 |
-| 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               |    15,000          |    4 - 5 LPA        | Interview Result Pending |
-| 18-08-2025               | [Xcelore](#)        | JVM Engineer – Trainee              | Noida              |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
-| 18-08-2025               | [Xcelore](#)        | JavaScript/UI Engineer – Trainee              |Noida  |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
-| 18-08-2025               | [Xcelore](#)        | DevOps Engineer – Trainee            | Noida              |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
-| 18-08-2025               | [Xcelore](#)        | Mobile & Smart TV Application Developer – Trainee            | Noida               |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
-| 18-08-2025               | [Xcelore](#)        | 	IoT Engineer – Trainee          | Noida              |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
-| 18-08-2025               | [Xcelore](#)        |	Quality Assurance Engineer – Trainee            |Noida               |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
-| 18-08-2025               | [Xcelore](#)        |Project Coordinator – Trainee             | Noida               |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
-| 18-08-2025               | [Xcelore](#)        | HR / IT / Admin – Trainee           | Noida                |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
-| 18-08-2025               | [Xcelore](#)        | 	Business Development Executive – Trainee            | Noida               |    15,000          |    4 - 5 LPA        |  Interview Result Pending  |
+| 18-08-2025               | [Xcelore](#)        | AI/ML Engineer – Trainee              | Noida               |    15,000          |    4 - 5 LPA        | 0 |
+| 18-08-2025               | [Xcelore](#)        | JVM Engineer – Trainee              | Noida              |    15,000          |    4 - 5 LPA        |  0  |
+| 18-08-2025               | [Xcelore](#)        | JavaScript/UI Engineer – Trainee              |Noida  |    15,000          |    4 - 5 LPA        |  0  |
+| 18-08-2025               | [Xcelore](#)        | DevOps Engineer – Trainee            | Noida              |    15,000          |    4 - 5 LPA        |  0  |
+| 18-08-2025               | [Xcelore](#)        | Mobile & Smart TV Application Developer – Trainee            | Noida               |    15,000          |    4 - 5 LPA        |  0 |
+| 18-08-2025               | [Xcelore](#)        | 	IoT Engineer – Trainee          | Noida              |    15,000          |    4 - 5 LPA        |  0  |
+| 18-08-2025               | [Xcelore](#)        |	Quality Assurance Engineer – Trainee            |Noida               |    15,000          |    4 - 5 LPA        | 0  |
+| 18-08-2025               | [Xcelore](#)        |Project Coordinator – Trainee             | Noida               |    15,000          |    4 - 5 LPA        |  0 |
+| 18-08-2025               | [Xcelore](#)        | HR / IT / Admin – Trainee           | Noida                |    15,000          |    4 - 5 LPA        |  0 |
+| 18-08-2025               | [Xcelore](#)        | 	Business Development Executive – Trainee            | Noida               |    15,000          |    4 - 5 LPA        |  0 |
 | 22-08-2025               | [Contevolve](#)            |    Web/Application Developer           | Noida        |    25,000            |    7 LPA      | Not Visited |
 | 22-08-2025               | [Contevolve](#)            |  Java Core Developer             | Noida        |    25,000            |    7 LPA      | Not Visited |
 | 22-08-2025               | [Contevolve](#)            |   DevOps Engineer            | Noida        |    25,000            |    7 LPA      | Not Visited |
