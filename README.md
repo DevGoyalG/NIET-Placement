@@ -189,7 +189,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 10-02-2026               | [Round the Clock Technologies](#)       |     DevOps  | Noida |   20,000  |   3.5 - 5.5 LPA   | Not Visited |
 | 10-02-2026               | [Infogain](#)       |     Associate Software Engineer  | Noida  |  10,000 - 20,000  |   4.34 LPA   | Ongoing |
 | 11-02-2026               | [NEC Corporation India Private Limited](#)       |     Software Engineer - Apprentice  | Noida (Hybrid as per company policy)  |  12,300  |     | Not Visited |
-| 11-02-2026               | [Optimus Information Inc. (Only Girls)](#)       |     Software Engineer Trainee  | Noida  |  15,000 - 20,000  |   6 LPA   | Ongoing |
+| 11-02-2026               | [Optimus Information Inc. (Only Girls)](#)       |     Software Engineer Trainee  | Noida  |  15,000 - 20,000  |   6 LPA   | 1 |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     App Developer  | Greater Noida  | 33,333 | 4 - 6 LPA   | Not Visited |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     IoT Device Application Development Engineer   | Greater Noida  | 18,000 |   4.8 LPA   | Not Visited |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     Embedded Firmware and Electronic Hardware Development  | Greater Noida  | 18,000 |   4.8 LPA   | Not Visited |
@@ -206,6 +206,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | Frontend Intern (React JS)           | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | Not Visited |
 | 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | AI/ML Intern (Python)                | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | Not Visited |
 | 19-03-2026               | [6Wresearch](#)   | Market Research Associate               | Delhi   |           |  3.6 LPA      | Not Visited |
+| 23-03-2026               | [Digi Souq](#)   | App Developer (Android / iOS)                | Noida, Remote   |             |  4.5 LPA      | Not Visited |
+| 23-03-2026               | [Digi Souq](#)   | Software Developer (Backend / Full Stack)               | Noida, Remote   |             |  4.5 LPA      | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
 
 ---
