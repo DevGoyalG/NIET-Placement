@@ -188,7 +188,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-02-2026               | [Real Time Data Services (RTDS)](#)       |     Cloud Sales  | Noida, Gurugram  |   20,000  |   6 LPA   | Not Visited |
 | 10-02-2026               | [Round the Clock Technologies](#)       |     DevOps  | Noida |   20,000  |   3.5 - 5.5 LPA   | Not Visited |
 | 10-02-2026               | [Infogain](#)       |     Associate Software Engineer  | Noida  |  10,000 - 20,000  |   4.34 LPA   | Ongoing |
-| 11-02-2026               | [NEC Corporation India Private Limited](#)       |     Software Engineer - Apprentice  | Noida (Hybrid as per company policy)  |  12,300  |     | Not Visited |
+| 11-02-2026               | [NEC Corporation India Private Limited](#)       |     Software Engineer -    | Noida (Hybrid as per company policy)  |  12,300  |     | Not Visited |
 | 11-02-2026               | [Optimus Information Inc. (Only Girls)](#)       |     Software Engineer Trainee  | Noida  |  15,000 - 20,000  |   6 LPA   | 1 |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     App Developer  | Greater Noida  | 33,333 | 4 - 6 LPA   | Not Visited |
 | 14-02-2026               | [Jayanita Exports Pvt. Ltd](#)       |     IoT Device Application Development Engineer   | Greater Noida  | 18,000 |   4.8 LPA   | Not Visited |
@@ -203,11 +203,19 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 25-02-2026               | [Juspay Technologies](#)   | PE               | Bangalore    |    40,000            |    21 LPA       | Ongoing |
 | 05-03-2026               | [Birlasoft Limited (formerly KPIT Technologies)](#)   | Associate Engineer               | Pune, Bangalore    |    20,000            |        | Not Visited |
 | 18-03-2026               | [Qube Cinema Technologies Pvt Ltd.](#)   | Graduate Trainee Field Sales (Broadcast Solutions)               | New Delhi    |             |  5 LPA      | Ongoing |
-| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | Frontend Intern (React JS)           | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | Ongoing |
-| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | AI/ML Intern (Python)                | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | Ongoing |
+| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | Frontend Intern (React JS)           | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | 5 (Combined) |
+| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | AI/ML Intern (Python)                | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | 5 (Combined) |
 | 19-03-2026               | [6Wresearch](#)   | Market Research Associate               | Delhi   |           |  3.6 LPA      | Not Visited |
 | 23-03-2026               | [Digi Souq](#)   | App Developer (Android / iOS)                | Noida, Remote   |             |  4.5 LPA      | Not Visited |
 | 23-03-2026               | [Digi Souq](#)   | Software Developer (Backend / Full Stack)               | Noida, Remote   |             |  4.5 LPA      | Not Visited |
+| 24-03-2026               | [Signature IT World](#)   | US IT Recruiter)               | Noida   |             |  4.8 LPA      | Not Visited |
+| 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Data Engineer               |    |             |        | Not Visited |
+| 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Software Development Engineer               |    |             |        | Not Visited |
+| 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Network & IT Engineering               |    |             |        | Not Visited |
+| 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Enterprise Service Desk Engineer               |    |             |        | Not Visited |
+| 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Data Scientist               |    |             |        | Not Visited |
+| 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Talent Acquisition (Early Career Programs)               |    |             |        | Not Visited |
+| 30-03-2026               | [Zscaler](#)   |   Graduate Trainee Engineer            | Mohali, Bengaluru   | 50,000 |     21,19,000                | Not Visited |
 |                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
 
 ---
