@@ -216,7 +216,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Data Scientist               |    |             |        | Not Visited |
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Talent Acquisition (Early Career Programs)               |    |             |        | Not Visited |
 | 30-03-2026               | [Zscaler](#)   |   Graduate Trainee Engineer            | Mohali, Bengaluru   | 50,000 |     21,19,000                | Not Visited |
-|                          | [Ubona Technologies](#)       |     	Developer    | Bangalore      |  |    8.5 LPA     | Not Visited |
+| 08-04-2026               | [MyAnatomy](#)   |   UI Developer / Frontend Developer           | Noida   | 15,000 - 20,000 |    4 - 6 LPA                | Not Visited |
+| 08-04-2026               | [GoTrust](#)   |   Junior Project Coordinate           | Noida  | 15,000 |     4 LPA                | Not Visited |
 
 ---
 
