@@ -219,6 +219,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 08-04-2026               | [MyAnatomy](#)   |   UI Developer / Frontend Developer           | Noida   | 15,000 - 20,000 |    4 - 6 LPA                | Not Visited |
 | 08-04-2026               | [GoTrust](#)   |   Junior Project Coordinate           | Noida  | 15,000 |     4 LPA                | Not Visited |
 | 09-04-2026               | [Act21 Software Pvt. Ltd.](#)   |   Software Engineer Trainee           | Noida  | 20,000 |     4.2 LPA                | Not Visited |
+| 17-04-2026               | [Polestar Analytics](#)   |   Business Intelligence Developer          | Delhi NCR  |  |     4 - 6 LPA                | Not Visited |
 
 ---
 
