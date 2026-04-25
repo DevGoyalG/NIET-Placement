@@ -221,6 +221,9 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 09-04-2026               | [Act21 Software Pvt. Ltd.](#)   |   Software Engineer Trainee           | Noida  | 20,000 |     4.2 LPA                | Not Visited |
 | 17-04-2026               | [Polestar Analytics](#)   |   Business Intelligence Developer          | Delhi NCR  |  |     4 - 6 LPA                | Not Visited |
 | 24-04-2026               | [Negentrophi](#)   |   AI Engineer Intern          | Noida  | 15,000 |     4 LPA                | Not Visited |
+| 25-04-2026               | [Jayanita Exports Pvt. Ltd](#)   |  Soft Setup Trainee Intern          | Greater Noida  | 18,000 |     4.2 - 4.8 LPA                | Not Visited |
+| 25-04-2026               | [Jayanita Exports Pvt. Ltd](#)   |  Analyst Trainee Intern          | Greater Noida  | 18,000 |     4.2 - 4.8 LPA                | Not Visited |
+
 
 ---
 
