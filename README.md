@@ -226,6 +226,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 28-04-2026               | [IDEMIA](#)   |  Software Engineers         | Noida  | 25,000 |    4.5 LPA                | Not Visited |
 | 02-05-2026               | [eTeam](#)   |  Senior AI Intern         | Noida  | 10,000 |    4.2 LPA                | Not Visited |
 | 05-05-2026               | [QSpiders](#)   | Software Trainee         | Noida  |  |    3 - 5.5 LPA                | Not Visited |
+| 07-05-2026               | [Xcelore](#)   | JVM Engineer Trainee         | Noida  | 15,000 |    3.5 - 4.5 LPA                | Not Visited |
+| 07-05-2026               | [Xcelore](#)   | DevOps Engineer Trainee        | Noida  | 15,000 |    3.5 - 4.5 LPA                | Not Visited |
 
 ---
 
