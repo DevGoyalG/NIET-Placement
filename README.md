@@ -208,7 +208,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 19-03-2026               | [6Wresearch](#)   | Market Research Associate               | Delhi   |           |  3.6 LPA      | Not Visited |
 | 23-03-2026               | [Digi Souq](#)   | App Developer (Android / iOS)                | Noida, Remote   |             |  4.5 LPA      | Not Visited |
 | 23-03-2026               | [Digi Souq](#)   | Software Developer (Backend / Full Stack)               | Noida, Remote   |             |  4.5 LPA      | Not Visited |
-| 24-03-2026               | [Signature IT World](#)   | US IT Recruiter)               | Noida   |             |  4.8 LPA      | Not Visited |
+| 24-03-2026               | [Signature IT World](#)   | US IT Recruiter)               | Noida   |             |  4.8 LPA      | Ongoing |
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Data Engineer               |    |             |        | Not Visited |
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Software Development Engineer               |    |             |        | Not Visited |
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Network & IT Engineering               |    |             |        | Not Visited |
@@ -223,9 +223,9 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 24-04-2026               | [Negentrophi](#)   |   AI Engineer Intern          | Noida  | 15,000 |     4 LPA                | Not Visited |
 | 25-04-2026               | [Jayanita Exports Pvt. Ltd](#)   |  Soft Setup Trainee Intern          | Greater Noida  | 18,000 |     4.2 - 4.8 LPA                | Not Visited |
 | 25-04-2026               | [Jayanita Exports Pvt. Ltd](#)   |  Analyst Trainee Intern          | Greater Noida  | 18,000 |     4.2 - 4.8 LPA                | Not Visited |
-| 28-04-2026               | [IDEMIA](#)   |  Software Engineers         | Noida  | 25,000 |    4.5 LPA                | Not Visited |
-| 02-05-2026               | [eTeam](#)   |  Senior AI Intern         | Noida  | 10,000 |    4.2 LPA                | Not Visited |
-| 05-05-2026               | [QSpiders](#)   | Software Trainee         | Noida  |  |    3 - 5.5 LPA                | Not Visited |
+| 28-04-2026               | [IDEMIA](#)   |  Software Engineers         | Noida  | 25,000 |    4.5 LPA                | Ongoing |
+| 02-05-2026               | [eTeam](#)   |  Senior AI Intern         | Noida  | 10,000 |    4.2 LPA                | Ongoing |
+| 05-05-2026               | [QSpiders](#)   | Software Trainee         | Noida  |  |    3 - 5.5 LPA                | Ongoing |
 | 07-05-2026               | [Xcelore](#)   | JVM Engineer Trainee         | Noida  | 15,000 |    3.5 - 4.5 LPA                | Not Visited |
 | 07-05-2026               | [Xcelore](#)   | DevOps Engineer Trainee        | Noida  | 15,000 |    3.5 - 4.5 LPA                | Not Visited |
 
