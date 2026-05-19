@@ -228,6 +228,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 05-05-2026               | [QSpiders](#)   | Software Trainee         | Noida  |  |    3 - 5.5 LPA                | Ongoing |
 | 07-05-2026               | [Xcelore](#)   | JVM Engineer Trainee         | Noida  | 15,000 |    3.5 - 4.5 LPA                | Not Visited |
 | 07-05-2026               | [Xcelore](#)   | DevOps Engineer Trainee        | Noida  | 15,000 |    3.5 - 4.5 LPA                | Not Visited |
+| 19-05-2026               | [CRMIT Solutions Private Limited](#)   | DevOps Engineer Trainee        | Bangalore  | 20,000 |    6 LPA                | Not Visited |
 
 ---
 
