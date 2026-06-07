@@ -230,6 +230,11 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-05-2026               | [Xcelore](#)   | DevOps Engineer Trainee        | Noida  | 15,000 |    3.5 - 4.5 LPA                | Not Visited |
 | 19-05-2026               | [CRMIT Solutions Private Limited](#)   | DevOps Engineer Trainee        | Bangalore  | 20,000 |    6 LPA                |  |
 | 21-05-2026               | [US Based (Only Girls)](#)            | AWS  |    Bangalore      |      70,000        | 	   10 LPA        | Not Visited |
+| 24-05-2026               | [Josh Technology Group](#)           | Inside Sales Strategist              | Gurugram          |            |    4 LPA      | Not Visited |
+| 07-06-2026               | [Palo Alto Networks](#)            | Software Engineering Apprentice  |    Bangalore      |        | 	        | Not Visited |
+| 06-06-2026               | [Palo Alto Networks](#)            | Automation Specialist Apprentice |    Bangalore      |           | 	         | Not Visited |
+| 07-06-2026               | [NTT DATA](#)           | Service Desk Associate             | Noida          |   18,000         |    3.2 LPA      | Not Visited |
+
 
 ---
 
