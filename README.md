@@ -175,7 +175,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 12-12-2025               | [SYMB Technologies](#)       |     	Quality Assurance (QA)     | Noida       |    30,000 |    3.5 LPA     | Not Visited |
 | 12-12-2025               | [SYMB Technologies](#)       |     	Business Analyst (BA)      | Noida       |    30,000 |    3.5 LPA     | Not Visited |
 | 01-01-2026               | [Virtuous Digital Ltd](#)       |     	Solution Engineer Associate     | Gurgaon       |  |    5 - 6.5 LPA     | Not Visited |
-| 03-01-2026               | [Ethara AI (Only 1 Month Intern)](#)       |     	AI Enginner      | Gurugram      |    30,000 |      | 165 - 180 |
+| 03-01-2026               | [Ethara AI](#)       |     	AI Enginner      | Gurugram      |    30,000 |  4 - 6 LPA    | 1 |
 | 06-01-2026               | [Appinventiv Technologies Pvt Ltd](#)       |     	Software Trainee     | Noida       |  |    3.6 - 4.2 LPA     | Not Visited |
 | 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  |    5 LPA     | 2 |
 | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  |    3 - 5 LPA     | Not Visited |
