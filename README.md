@@ -155,7 +155,6 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-11-2025               | [Publicis Sapient](#)            | Junior Associate Technology  |  Gurugram    |      30,500      | 	   5.10 LPA     | 3 |
 | 07-11-2025               | [Zangoh](#)            | Software Engineer Intern: GenerativeAI  |   Indore   |        20,000    | 	   5,33,400        | 2 |
 | 12-11-2025               | [RedDoorz](#)           | Entry-Level Software Engineer             | Noida          |      20,000        |    6 LPA       | 2 |
-| 13-11-2025               | [Sopra Steria India](#)           | Engineer Trainee            | Noida, Chennai, Bangalore          |          |    6 LPA       | Not Visited  |
 | 14-11-2025               | [myNachiketa](#)           | Full Stack Engineer             | New Delhi          |      20,000        |    6 LPA + 50,000       | Not Visited |
 | 14-11-2025               | [myNachiketa](#)           | AI Engineer             | New Delhi          |      20,000        |    6.5 LPA + 50,000     | Not Visited |
 | 14-11-2025               | [Cloud Analogy](#)           | Trainee           | Mohali, Noida, Gurugram          |      17,288        |    3.5 LPA      | 12 |
@@ -180,7 +179,6 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 16-01-2026               | [Calsoft Pvt Ltd](#)       |     	Engineer     | PAN India       |  |    5 LPA     | 2 |
 | 19-01-2026               | [AppVersal](#)       |     	Django Developer     | Noida       |  |    3 - 5 LPA     | Not Visited |
 | 27-01-2026               | [Floatingpoint AI](#)       |     	QA Specialist – Data Annotation     | Gurugram      |  |    7.5 LPA     | Not Visited |
-| 27-01-2026               | [Josh Technology Group](#)           | Inside Sales Strategist              | Gurugram          |      18,000        |    3.75 LPA      | Not Visited |
 | 31-01-2026               | [iqigai.ai by Fractal Analytics](#)       |     	Data Engineering    | PAN India      |  |    5 - 6 LPA     | Ongoing |
 | 04-02-2026               | [Sopra Steria India](#)       |     	Engineer Trainee    |  Noida, Chennai, Bangalore    |     |   6 LPA   | 10 |
 | 04-02-2026               | [Far Eye](#)       |     	Software Development Engineer Intern   |  Noida   |    22,000 - 25,000 |   6 - 7 LPA   | 0 |
@@ -230,7 +228,6 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-05-2026               | [Xcelore](#)   | DevOps Engineer Trainee        | Noida  | 15,000 |    3.5 - 4.5 LPA                | Not Visited |
 | 19-05-2026               | [CRMIT Solutions Private Limited](#)   | DevOps Engineer Trainee        | Bangalore  | 20,000 |    6 LPA                |  |
 | 21-05-2026               | [US Based (Only Girls)](#)            | AWS  |    Bangalore      |      70,000        | 	   10 LPA        | Not Visited |
-| 24-05-2026               | [Josh Technology Group](#)           | Inside Sales Strategist              | Gurugram          |            |    4 LPA      | Not Visited |
 | 07-06-2026               | [Palo Alto Networks](#)            | Software Engineering Apprentice  |    Bangalore      |        | 	        | Not Visited |
 | 06-06-2026               | [Palo Alto Networks](#)            | Automation Specialist Apprentice |    Bangalore      |           | 	         | Not Visited |
 | 07-06-2026               | [NTT DATA](#)           | Service Desk Associate             | Noida          |   18,000         |    3.2 LPA      | Not Visited |
