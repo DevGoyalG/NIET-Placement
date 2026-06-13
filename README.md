@@ -214,7 +214,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Enterprise Service Desk Engineer               |    |             |        | Not Visited |
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Data Scientist               |    |             |        | Not Visited |
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Talent Acquisition (Early Career Programs)               |    |             |        | Not Visited |
-| 30-03-2026               | [Zscaler](#)   |   Graduate Trainee Engineer            | Mohali, Bengaluru   | 50,000 |     21,19,000                | Not Visited |
+| 30-03-2026               | [Zscaler](#)   |   Graduate Trainee Engineer            | Mohali, Bengaluru   | 50,000 |     21,19,000                | 2 |
+| 03-04-2026               | [Agile Ventures](#)   |   Trainee AI/ML Engineer           | Noida   | 25,000 |    4 - 5 LPA                | Ongoing |
 | 08-04-2026               | [MyAnatomy](#)   |   UI Developer / Frontend Developer           | Noida   | 15,000 - 20,000 |    4 - 6 LPA                | Not Visited |
 | 08-04-2026               | [GoTrust](#)   |   Junior Project Coordinate           | Noida  | 15,000 |     4 LPA                | Not Visited |
 | 09-04-2026               | [Act21 Software Pvt. Ltd.](#)   |   Software Engineer Trainee           | Noida  | 20,000 |     4.2 LPA                | Not Visited |
