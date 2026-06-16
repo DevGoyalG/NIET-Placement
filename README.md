@@ -234,6 +234,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 06-06-2026               | [Palo Alto Networks](#)            | Software Engineering Apprentice  |    Bangalore      |        | 	        | Not Visited |
 | 06-06-2026               | [Palo Alto Networks](#)            | Automation Specialist Apprentice |    Bangalore      |           | 	         | Not Visited |
 | 07-06-2026               | [NTT DATA](#)           | Service Desk Associate             | Noida          |   18,000         |    3.2 LPA      | Not Visited |
+| 16-06-2026               | [Xenotix Labs](#)           | Full Stack Developer (Next.js)             | Noida          |           |    3 - 5 LPA      | Not Visited |
+| 16-06-2026               | [Xenotix Labs](#)           | Sales Executive IT Services             | Noida          |           |    3 - 5 LPA      | Not Visited |
 
 
 ---
