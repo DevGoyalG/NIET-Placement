@@ -33,7 +33,7 @@ This repository includes:
 - 💰 Internship stipend (if applicable)  
 - 📦 Final offered package (CTC)
 
-> ⚠️ **Note:** This repository covers on-campus placement drives conducted for **B.Tech, M.Tech Integrated and MCA students only**.
+> ⚠️ **Note:** This repository covers on-campus placement drives conducted for **B.Tech, M.Tech Integrated and MCA students only [Common jobs only, not specific branch job]**.
 
 ---
 
