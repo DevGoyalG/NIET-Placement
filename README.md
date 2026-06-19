@@ -202,8 +202,8 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 05-03-2026               | [Birlasoft Limited (formerly KPIT Technologies)](#)   | Associate Engineer               | Pune, Bangalore    |    20,000            |        | Not Visited |
 | 18-03-2026               | [iOPEX Technologies Private Limited](#)   | Trainee Engineer              | Indore  |             |  4 LPA      | 20 |
 | 18-03-2026               | [Qube Cinema Technologies Pvt Ltd.](#)   | Graduate Trainee Field Sales (Broadcast Solutions)               | New Delhi    |             |  5 LPA      | 2 |
-| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | Frontend Intern (React JS)           | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | 5 (Combined) |
-| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | AI/ML Intern (Python)                | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | 5 (Combined) |
+| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | Frontend Intern (React JS)           | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | 3 (Combined) |
+| 18-03-2026               | [Jayanita Exports Pvt. Ltd](#)   | AI/ML Intern (Python)                | Greater Noida   |  18,000           |  4.2 - 4.8 LPA      | 3 (Combined) |
 | 19-03-2026               | [6Wresearch](#)   | Market Research Associate               | Delhi   |           |  3.6 LPA      | Not Visited |
 | 23-03-2026               | [Digi Souq](#)   | App Developer (Android / iOS)                | Noida, Remote   |             |  4.5 LPA      | Not Visited |
 | 23-03-2026               | [Digi Souq](#)   | Software Developer (Backend / Full Stack)               | Noida, Remote   |             |  4.5 LPA      | Not Visited |
