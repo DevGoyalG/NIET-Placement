@@ -236,6 +236,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-06-2026               | [NTT DATA](#)           | Service Desk Associate             | Noida          |   18,000         |    3.2 LPA      | Ongoing |
 | 16-06-2026               | [Xenotix Labs](#)           | Full Stack Developer (Next.js)             | Noida          |           |    3 - 5 LPA      | Not Visited |
 | 16-06-2026               | [Xenotix Labs](#)           | Sales Executive IT Services             | Noida          |           |    3 - 5 LPA      | Not Visited |
+| 19-06-2026               | [Amadeus India Pvt. Ltd](#)       |    SDE  | Bangalore | 30,000  | 12.75 LPA   | Ongoing |
 
 
 ---
