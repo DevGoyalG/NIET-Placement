@@ -207,7 +207,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 19-03-2026               | [6Wresearch](#)   | Market Research Associate               | Delhi   |           |  3.6 LPA      | Not Visited |
 | 23-03-2026               | [Digi Souq](#)   | App Developer (Android / iOS)                | Noida, Remote   |             |  4.5 LPA      | Not Visited |
 | 23-03-2026               | [Digi Souq](#)   | Software Developer (Backend / Full Stack)               | Noida, Remote   |             |  4.5 LPA      | Not Visited |
-| 24-03-2026               | [Signature IT World](#)   | US IT Recruiter)               | Noida   |             |  4.8 LPA      | Ongoing |
+| 24-03-2026               | [Signature IT World](#)   | US IT Recruiter               | Noida   |             |  4.8 LPA      | Ongoing |
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Data Engineer               |    |             |        | Not Visited |
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Software Development Engineer               |    |             |        | Not Visited |
 | 30-03-2026               | [Autodesk (Apprenticeship Program)](#)   |   Network & IT Engineering               |    |             |        | Not Visited |
@@ -237,6 +237,10 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 16-06-2026               | [Xenotix Labs](#)           | Full Stack Developer (Next.js)             | Noida          |           |    3 - 5 LPA      | Not Visited |
 | 16-06-2026               | [Xenotix Labs](#)           | Sales Executive IT Services             | Noida          |           |    3 - 5 LPA      | Not Visited |
 | 19-06-2026               | [Amadeus India Pvt. Ltd](#)       |    SDE  | Bangalore | 30,000  | 12.75 LPA   | Ongoing |
+| 29-06-2026               | [Namoza](#)       |    Sales Development Representatives (SDR)  | Noida | 25,000 - 30,000  | 8 LPA   | Not Visited |
+| 29-06-2026               | [Namoza](#)       |   SEO, GEO & AEO Specialists | Noida | 25,000 - 30,000  | 8 LPA   | Not Visited |
+| 29-06-2026               | [Namoza](#)       |    Content Specialists | Noida | 25,000 - 30,000  | 8 LPA   | Not Visited |
+| 29-06-2026               | [Namoza](#)       |   Developers (Webflow, WordPress, React & Martech) | Noida | 25,000 - 30,000  | 8 LPA   | Not Visited |
 
 
 ---
