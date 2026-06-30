@@ -237,10 +237,10 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 16-06-2026               | [Xenotix Labs](#)           | Full Stack Developer (Next.js)             | Noida          |           |    3 - 5 LPA      | Not Visited |
 | 16-06-2026               | [Xenotix Labs](#)           | Sales Executive IT Services             | Noida          |           |    3 - 5 LPA      | Not Visited |
 | 19-06-2026               | [Amadeus India Pvt. Ltd](#)       |    SDE  | Bangalore | 30,000  | 12.75 LPA   | Ongoing |
-| 29-06-2026               | [Namoza](#)       |    Sales Development Representatives (SDR)  | Noida | 25,000 - 30,000  | 8 LPA   | Not Visited |
-| 29-06-2026               | [Namoza](#)       |   SEO, GEO & AEO Specialists | Noida | 25,000 - 30,000  | 8 LPA   | Not Visited |
-| 29-06-2026               | [Namoza](#)       |    Content Specialists | Noida | 25,000 - 30,000  | 8 LPA   | Not Visited |
-| 29-06-2026               | [Namoza](#)       |   Developers (Webflow, WordPress, React & Martech) | Noida | 25,000 - 30,000  | 8 LPA   | Not Visited |
+| 29-06-2026               | [Namoza](#)       |    Sales Development Representatives (SDR)  | Noida | 25,000 - 30,000  | 8 LPA   | Ongoing |
+| 29-06-2026               | [Namoza](#)       |   SEO, GEO & AEO Specialists | Noida | 25,000 - 30,000  | 8 LPA   |  Ongoing|
+| 29-06-2026               | [Namoza](#)       |    Content Specialists | Noida | 25,000 - 30,000  | 8 LPA   | Ongoing |
+| 29-06-2026               | [Namoza](#)       |   Developers (Webflow, WordPress, React & Martech) | Noida | 25,000 - 30,000  | 8 LPA   |  Ongoing|
 
 
 ---
