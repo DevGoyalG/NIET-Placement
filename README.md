@@ -196,7 +196,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 14-02-2026               | [AMITY Software Limited](#)       |    Associate Software Developer  | Noida  |  | 6 LPA   | Not Visited |
 | 16-02-2026               | [Mega Impacts](#)       |    AI Engineer  | Noida  | 10,000  | 4 LPA   | Not Visited |
 | 24-02-2026               | [Concurate](#)       |    In-house Content Writer (Fresher)  | Chandigarh (Remote)  | 20,000  | 4.5 - 4.8 LPA   | Not Visited |
-| 24-02-2026               | [Amadeus India Pvt. Ltd](#)       |    SDE  | Bangalore | 30,000  | 12.75 LPA   | Ongoing |
+| 24-02-2026               | [Amadeus India Pvt. Ltd](#)       |    SDE  | Bangalore | 30,000  | 12.75 LPA   | 32 (Combined with Phase 2) |
 | 25-02-2026               | [Juspay Technologies](#) | SDE - Frontend          | Bangalore             |    40,000                   |    27 LPA       | Ongoing |
 | 25-02-2026               | [Juspay Technologies](#) | SDE - Backend         | Bangalore             |    40,000                   |    27 LPA       | Ongoing |
 | 25-02-2026               | [Juspay Technologies](#)   | PE               | Bangalore    |    40,000            |    21 LPA       | Ongoing |
@@ -237,7 +237,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-06-2026               | [NTT DATA](#)           | Service Desk Associate             | Noida          |   18,000         |    3.2 LPA      | 15 |
 | 16-06-2026               | [Xenotix Labs](#)           | Full Stack Developer (Next.js)             | Noida          |           |    3 - 5 LPA      | Not Visited |
 | 16-06-2026               | [Xenotix Labs](#)           | Sales Executive IT Services             | Noida          |           |    3 - 5 LPA      | Not Visited |
-| 19-06-2026               | [Amadeus India Pvt. Ltd](#)       |    SDE  | Bangalore | 30,000  | 12.75 LPA   | Ongoing |
+| 19-06-2026               | [Amadeus India Pvt. Ltd](#)       |    SDE  | Bangalore | 30,000  | 12.75 LPA   | 32 (Combined with Phase 1) |
 | 29-06-2026               | [Namoza](#)       |    Sales Development Representatives (SDR)  | Noida | 25,000 - 30,000  | 8 LPA   | Ongoing |
 | 29-06-2026               | [Namoza](#)       |   SEO, GEO & AEO Specialists | Noida | 25,000 - 30,000  | 8 LPA   |  Ongoing|
 | 29-06-2026               | [Namoza](#)       |    Content Specialists | Noida | 25,000 - 30,000  | 8 LPA   | Ongoing |
