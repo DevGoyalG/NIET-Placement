@@ -245,6 +245,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 07-07-2026               | [Real Time Data Services (RTDS)](#)       |  Intern- Cloud Sales | PAN India | 20,000  | 6 LPA   |  Ongoing |
 | 14-07-2026               | [Ola Electric](#)       |  Retail Operations / Store Management | PAN India |   | 7 - 9 LPA   |  Not Visited |
 | 20-07-2026               | [Wobot.ai](#)       |  Sales Operations and Enablement Intern | Remote (with occasional travel to our Delhi office) | 10,000  | 4 LPA   |  Not Visited |
+| 24-07-2026               | [BT Group](#)       |  Service Reliability Engineer Trainee | Gurugram |   25,621 | 3.75 LPA   |  Not Visited |
 
 
 ---
