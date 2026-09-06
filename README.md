@@ -249,7 +249,7 @@ Below is the table containing companies that have visited NIET for **Batch 2026 
 | 24-07-2026               | [BT Group](#)       |  Service Reliability Engineer Trainee | Gurugram |   25,621 | 3.75 LPA   |  2 |
 | 27-07-2026               | [Ramboll India Pvt Ltd](#)       |  Trainee | Gurugram |   25,000 | 5 - 5.5 LPA   |  Not Visited |
 | 11-08-2026               | [Adnolgy Infotech Pvt. Ltd.](#)       |  Trainee -Salesforce Developer | Noida |   | 4.5 LPA   |  Not Visited |
-
+| 06-09-2026               | [Addverb Technologies Ltd.](#)       |  VLA Data- Intern | Noida |  25,000 |  |  Not Visited |
 
 ---
 
